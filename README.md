@@ -1,4 +1,4 @@
-# soccer-sidequest
+# soccer-analytics
 
 Pass- and positioning-level football analysis for a [Side Quest](https://thesidequest.com)-style story,
 built on [StatsBomb Open Data](https://github.com/statsbomb/open-data) — currently **UEFA Euro 2024**
