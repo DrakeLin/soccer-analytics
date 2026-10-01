@@ -1,0 +1,13 @@
+depth_band,lane,blockers,lanes,prevented,mean_score
+box,right (def view),105,126,0.13015,0.00124
+box,centre,1160,1455,1.75197,0.00151
+box,left (def view),131,155,0.25687,0.00196
+edge of box,right (def view),1009,1197,0.9288,0.00092
+edge of box,centre,4695,5490,3.8946,0.00083
+edge of box,left (def view),1110,1294,1.03303,0.00093
+mid block,right (def view),1844,2082,0.38219,0.00021
+mid block,centre,6487,7235,1.56396,0.00024
+mid block,left (def view),1952,2169,0.68349,0.00035
+high,right (def view),906,1010,-0.158,-0.00017
+high,centre,3381,3728,-0.64188,-0.00019
+high,left (def view),949,1077,-0.21487,-0.00023

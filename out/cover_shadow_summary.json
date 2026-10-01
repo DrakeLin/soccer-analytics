@@ -1,0 +1,62 @@
+{
+ "frames": 16714,
+ "options": 117943,
+ "matched_share": 0.6767380638985282,
+ "lanes_blocked_share": 0.2533003230373994,
+ "lanes_blocked_by_lane_blockers": 0.1932543686356969,
+ "man_markers_per_frame": 2.3407921502931672,
+ "defenders_per_frame": 9.45799928203901,
+ "frames_with_any_blocker": 0.7283115950700012,
+ "selection_rate_open": 0.16947597924968047,
+ "selection_rate_blocked": 0.002581977794990963,
+ "selection_rate_fwd_open": 0.11564154272750189,
+ "selection_rate_fwd_blocked": 0.0031820308844174076,
+ "completion_open": 0.9605181439091474,
+ "completion_blocked": 0.65,
+ "n_passes_into_blocked_lanes": 40,
+ "n_passes_matched": 11311,
+ "passes_deterred_total": 950.7204639353689,
+ "passes_deterred_per100": 5.6881683853976845,
+ "mean_threat_obs": 0.013040396189515106,
+ "mean_threat_cf": 0.013715183026525397,
+ "mean_blocking_score": 0.0006747868370102873,
+ "pct_reduction": 4.9199987758474535,
+ "corr_xga_prevented_per100": 0.15497749807027247,
+ "corr_xga_blocking_rate": 0.10159805717975577,
+ "extra_time": {
+  "frames": {
+   "false": 16147,
+   "true": 567
+  },
+  "prevented": {
+   "false": 0.00066773797849373,
+   "true": 0.0008755239066167242
+  },
+  "frames_with_block": {
+   "false": 0.7269461819533041,
+   "true": 0.7671957671957672
+  }
+ },
+ "selection_coef": {
+  "dist": -1.9903565325333654,
+  "dx": 0.5347591361565684,
+  "fmax": -1.0206486526409404,
+  "ncone": -0.56792271431835,
+  "rnear": 1.068701396523362,
+  "rgoalside": 0.367596973475506,
+  "rx": 0.453539921666472,
+  "ry_c": -0.1503390797587707,
+  "xt": 0.22711060964662852
+ },
+ "success_coef": {
+  "dist": 0.5549219368254358,
+  "dx": 0.7671863984718066,
+  "fmax": -0.8919533324527303,
+  "ncone": -0.5856222598294647,
+  "rnear": 3.4385583291297848,
+  "rgoalside": 1.5267684953934633,
+  "rx": -1.3632485699897403,
+  "ry_c": 0.21997787150810164,
+  "pressure": -0.7225636325910441
+ }
+}

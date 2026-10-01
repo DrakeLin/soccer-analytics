@@ -51,3 +51,9 @@ python charts.py
 
 Data: [StatsBomb Open Data](https://github.com/statsbomb/open-data), used under its
 [licence](https://github.com/statsbomb/open-data/blob/master/LICENSE.pdf) — StatsBomb must be credited in any publication.
+
+## Cover shadows (off-ball defending)
+
+`python cover_shadow.py && python cover_shadow_charts.py` builds the blocked-passing-lane / "threat prevented" model
+described in `docs/cover-shadows-euro2024.md` (method survey in `docs/defensive-positioning-metrics.md`).
+Outputs: `out/cover_shadow_team.csv`, `_match.csv`, `_zone.csv`, `_team_depth.csv`, `_summary.json`, charts `out/cs_*.png`.
