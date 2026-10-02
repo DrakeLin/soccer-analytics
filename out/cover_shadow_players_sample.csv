@@ -1,0 +1,40 @@
+player_id,player,team,position,blocks,lanes,prevented,minutes,prevented_per_block
+6983,Remo Freuler,Switzerland,Right Defensive Midfield,16,19,0.0082,529.0,0.0005
+11335,Otar Kiteishvili,Georgia,Center Defensive Midfield,15,19,0.0135,135.5833,0.0009
+41202,Giorgi Kochorashvili,Georgia,Left Center Midfield,15,17,0.0678,380.65,0.0045
+31968,Adam Gnezda Čerin,Slovenia,Right Defensive Midfield,14,16,0.0053,412.0,0.0004
+3943,Declan Rice,England,Left Defensive Midfield,14,15,0.0068,723.0,0.0005
+4870,Tomáš Souček,Czech Republic,Right Defensive Midfield,9,10,-0.0021,288.0,-0.0002
+3500,Granit Xhaka,Switzerland,Left Defensive Midfield,9,13,0.002,508.0,0.0002
+9085,Salih Özcan,Turkey,Right Defensive Midfield,9,11,0.0016,166.7833,0.0002
+29480,Jakub Moder,Poland,Left Center Midfield,9,10,0.0404,195.0,0.0045
+6765,Rodri,Spain,Right Defensive Midfield,9,12,0.0132,566.4833,0.0015
+5544,Ricardo Rodríguez,Switzerland,Left Center Back,9,10,0.0023,508.0,0.0003
+15503,Jerdy Schouten,Netherlands,Right Defensive Midfield,8,9,0.0262,526.4833,0.0033
+6963,Lorenzo Pellegrini,Italy,Left Wing,8,9,0.0058,221.35,0.0007
+48347,Amadou Onana,Belgium,Left Defensive Midfield,8,8,0.0073,381.0,0.0009
+3961,N'Golo Kanté,France,Right Center Midfield,8,8,0.0089,538.3,0.0011
+24778,Eduardo Camavinga,France,Left Center Midfield,8,11,0.0038,188.7167,0.0005
+6798,Stanislav Lobotka,Slovakia,Center Defensive Midfield,8,9,0.0032,411.0,0.0004
+7162,Ádám Nagy,Hungary,Right Defensive Midfield,8,13,0.0014,171.25,0.0002
+33234,Georges Mikautadze,Georgia,Right Center Forward,8,9,-0.001,357.8,-0.0001
+30401,Ruben Vargas,Switzerland,Left Attacking Midfield,7,7,-0.0047,311.35,-0.0007
+10534,Callum McGregor,Scotland,Left Defensive Midfield,7,13,0.0114,262.7833,0.0016
+3289,Romelu Lukaku,Belgium,Center Forward,7,8,-0.0097,375.3333,-0.0014
+33680,Kacper Urbanski,Poland,Right Center Forward,6,6,-0.0001,157.7,-0.0
+5660,Piotr Zieliński,Poland,Left Center Midfield,6,7,-0.0032,259.35,-0.0005
+10919,Juraj Kucka,Slovakia,Right Center Midfield,6,8,0.0088,370.9333,0.0015
+30913,Marius Marin,Romania,Center Defensive Midfield,6,6,0.0024,307.95,0.0004
+21209,Dominik Szoboszlai,Hungary,Right Attacking Midfield,6,6,-0.0034,293.0,-0.0006
+24438,Ylber Ramadani,Albania,Right Defensive Midfield,6,6,0.004,274.1833,0.0007
+3089,Kevin De Bruyne,Belgium,Center Attacking Midfield,5,5,0.0005,381.0,0.0001
+5487,Antoine Griezmann,France,Center Attacking Midfield,5,6,0.001,413.7,0.0002
+7156,Federico Chiesa,Italy,Right Wing,5,5,-0.0024,274.5,-0.0005
+16275,Loïs Openda,Belgium,Left Center Forward,5,5,-0.0041,84.1667,-0.0008
+12510,Ryan Christie,Scotland,Left Center Forward,5,5,-0.0051,105.6,-0.001
+31866,Andraž Šporar,Slovenia,Right Center Forward,5,6,0.0084,349.9833,0.0017
+30739,Paweł Dawidowicz,Poland,Center Back,5,5,0.0038,190.0,0.0008
+38229,Kvara,Georgia,Left Center Forward,5,5,0.0003,350.85,0.0001
+32030,Nedim Bajrami,Albania,Center Attacking Midfield,5,6,0.0006,254.8667,0.0001
+38909,Nicolò Fagioli,Italy,Center Defensive Midfield,5,5,0.0042,103.9833,0.0008
+50436,Fabian Rieder,Switzerland,Right Attacking Midfield,5,5,-0.0052,231.1333,-0.001

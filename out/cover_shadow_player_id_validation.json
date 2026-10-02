@@ -1,0 +1,29 @@
+{
+ "frames_with_360": 158848,
+ "visible_outfield_defenders": 1289104,
+ "direct_strict": 45125,
+ "direct_loose": 108358,
+ "identified_after_propagation": 87521,
+ "identified_share": 0.0679,
+ "propagation_precision_vs_loose_direct": 0.9,
+ "propagation_checked": 16756,
+ "blockers_total": 23734,
+ "blockers_identified": 661,
+ "blockers_identified_share": 0.0279,
+ "hungarian_scored_on": 3741,
+ "hungarian_player_accuracy": 0.375,
+ "hungarian_role_group_accuracy": 0.461,
+ "players_with_5plus_identified_blocks": 39,
+ "params": {
+  "strict": [
+   2,
+   2.5
+  ],
+  "loose": [
+   8,
+   4.0
+  ],
+  "gap_s": 6,
+  "move_yd": 6.0
+ }
+}

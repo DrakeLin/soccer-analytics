@@ -57,3 +57,4 @@ Data: [StatsBomb Open Data](https://github.com/statsbomb/open-data), used under 
 `python cover_shadow.py && python cover_shadow_charts.py` builds the blocked-passing-lane / "threat prevented" model
 described in `docs/cover-shadows-euro2024.md` (method survey in `docs/defensive-positioning-metrics.md`).
 Outputs: `out/cover_shadow_team.csv`, `_match.csv`, `_zone.csv`, `_team_depth.csv`, `_summary.json`, charts `out/cs_*.png`.
+`python cover_shadow_players.py` (~11 min) tests whether blockers can be named; result: no (see the doc) — writes `out/cover_shadow_player_id_validation.json` and a small identified sample.

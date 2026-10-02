@@ -55,9 +55,18 @@ Blocking *rate* barely varies (17–21 % of lanes), the *value* of the blocks do
 - **Extra time** (567 snapshots): blocking score per snapshot rises from 0.00067 to 0.00088 and 77 % of frames have a blocker vs 73 % — consistent with tired teams dropping deeper, but a thin sample.
 - Recipient matching: only 68 % of passes have the receiver inside the visible 360 area; selection/completion models are fit on those. Unmatched passes still get scored.
 
+## Which players? (attempted, not defensible)
+
+`cover_shadow_players.py` tries to put names on the anonymous blockers (`out/cover_shadow_player_id_validation.json`).
+
+1. **Direct id + short tracks.** A defender is named when the defending team has an on-ball event by one player within ±2 s and 2.5 yd of the frame position; ids are then carried along nearest-neighbour tracks between consecutive frames of the same possession (≤6 s gap, ≤6 yd move). Precision is 90 % where a looser direct id (±8 s, 4 yd) can check it (16,756 cases), but coverage is 6.8 % of the 1.29 M visible outfield defenders and only **661 of 23,734 lane-blockers (2.8 %)** — 39 players reach five identified blocks. That is a sample (`out/cover_shadow_blockers_identified.csv`, `out/cover_shadow_players_sample.csv`), not a ranking: it is biased toward players who touch the ball soon after standing in a lane (holding midfielders dominate — Freuler, Kiteishvili, Kochorashvili, Gnezda Čerin, Rice, Rodri).
+2. **Hungarian matching to mean event positions.** Every visible defender is assigned to one of the eleven on-pitch players by distance to the player's match-level mean defensive-event location (team centroid aligned to the frame). Scored on 3,741 route-1 ids with no on-ball event nearby, it names the right player **37.5 %** of the time and even the right role group (CB / FB / DM / CM / wide / FW) only 46 %. Variants (all events, nominal formation slots, mixes, with/without centroid shift) scored 11–32 %. Compact defensive blocks put several players within a few yards of each other and sparse on-ball events are a poor proxy for where someone stands off the ball, so this is unusable for a per-player stat.
+
+Conclusion: with open 360 data, "who is good at blocking lanes" is answerable at **team and zone** level only. A named leaderboard needs tracking data (or StatsBomb's non-open 360 with player ids / DefR).
+
 ## Caveats (read before quoting)
 
-- Freeze frames are **anonymous** — no per-defender names, so no "best lane-blocker at the Euros" leaderboard. Aggregates are by team / match / zone.
+- Freeze frames are **anonymous** — see "Which players?" below: we could not recover identities reliably, so there is no player leaderboard. Aggregates are by team / match / zone.
 - No velocities: the paper's physics-based Lane Control model (time-to-intercept) cannot be reproduced; we use the Gaussian-cone geometric baseline only.
 - Only visible players count; options outside the camera frame are ignored, so threat is underestimated for switches of play.
 - The completion model has a 95.9 % base rate (ground passes in midfield rarely fail), so counterfactual gains come mostly through pass *selection*, not completion.

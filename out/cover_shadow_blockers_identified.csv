@@ -1,0 +1,662 @@
+id,match_id,defending,player_id,player,position,dx,dy,lanes,score,depth_band,lane,source
+4eaee7b3-ec63-46be-9e7c-70f8a69b1bb0,3930158,Scotland,9466,Che Adams,Center Forward,54.6616,30.42336,1,-0.00014,high,centre,propagated
+3beae5b1-b3e8-4fd6-8fd9-c0826a2f39de,3930158,Scotland,12510,Ryan Christie,Left Center Forward,72.92936,41.62965,1,2e-05,high,centre,propagated
+d98621fa-6536-44aa-94e6-47e2074a2127,3930158,Scotland,10534,Callum McGregor,Left Defensive Midfield,78.14339,39.58582,1,7e-05,mid block,centre,propagated
+66ae91e0-0139-43ed-b8e8-e80139e87d7a,3930158,Scotland,10534,Callum McGregor,Left Defensive Midfield,81.24683,34.19259,3,9e-05,mid block,centre,propagated
+c34733bc-eca7-4b24-acc8-d566f2e7148a,3930158,Scotland,10534,Callum McGregor,Left Defensive Midfield,104.74918,53.52045,1,0.00496,box,left (def view),propagated
+d5c5c293-e51f-44de-882d-35b93f7228e9,3930158,Scotland,9974,John McGinn,Left Center Forward,64.83849,25.50409,1,5e-05,high,right (def view),propagated
+3181c268-0d3a-4c8e-8d02-b7be2de13d9e,3930158,Scotland,3620,Scott McTominay,Right Center Midfield,82.07496,42.2946,1,0.00021,mid block,centre,propagated
+32e2009c-83c9-4683-a1ab-bb6490c76f84,3930158,Scotland,10534,Callum McGregor,Left Defensive Midfield,89.8819,56.99119,1,0.00548,mid block,left (def view),propagated
+323fb629-a712-4a2b-a573-ff9aa1fbcbba,3930158,Scotland,10534,Callum McGregor,Left Defensive Midfield,88.8199,44.44977,2,0.00232,mid block,centre,propagated
+feacfe18-ecad-42ba-94a6-e1a7b7b1fb13,3930158,Germany,5574,Toni Kroos,Left Defensive Midfield,65.25208,27.90759,1,0.00014,high,centre,direct
+4c56680d-57f8-472a-b1c2-0349d08affe3,3930158,Scotland,9466,Che Adams,Center Forward,62.92838,16.09599,2,-0.00024,high,right (def view),propagated
+7ee36954-97d0-4a02-a4d6-dff587644e6f,3930158,Scotland,12510,Ryan Christie,Left Center Forward,76.55765,18.57085,1,-6e-05,mid block,right (def view),propagated
+cef9b0d4-b2e7-414d-af19-d0fe206d602f,3930158,Scotland,12510,Ryan Christie,Left Center Forward,73.19254,20.43927,1,-0.00255,high,right (def view),propagated
+bfcf4bb5-96b9-4bbb-9633-39d0c08fa6fd,3930158,Scotland,12510,Ryan Christie,Left Center Forward,71.45296,25.11445,1,-0.00115,high,right (def view),propagated
+e1ece3ea-ab2b-4578-a2ea-7f97a856d129,3930158,Scotland,12510,Ryan Christie,Left Center Forward,70.83662,20.97093,1,-0.00132,high,right (def view),propagated
+4af20f65-b55e-4111-8b2c-b417c2a3fde5,3930158,Scotland,9974,John McGinn,Left Center Forward,87.6344,65.52082,1,-0.00019,mid block,left (def view),direct
+ea90c2f1-00d0-4879-be75-98b216d933c7,3930158,Scotland,9974,John McGinn,Left Center Forward,89.80097,39.82834,1,0.00536,mid block,centre,propagated
+5ed4ee90-79fc-4cb1-bd09-f6c50f04659f,3930158,Scotland,9974,John McGinn,Left Center Forward,88.88198,44.09303,1,0.00183,mid block,centre,direct
+5a20414e-ad3e-419b-8025-9c2ac5cda723,3930158,Scotland,31067,Billy Gilmour,Right Defensive Midfield,88.15488,41.2636,1,0.00421,mid block,centre,direct
+f0b599eb-6768-441f-83f7-12adfe8bf170,3930158,Scotland,31067,Billy Gilmour,Right Defensive Midfield,86.55839,39.46109,1,0.00423,mid block,centre,direct
+9dfbf651-1bce-40f1-b232-7525332008c7,3930158,Scotland,31067,Billy Gilmour,Right Defensive Midfield,91.00532,32.39697,1,0.00594,edge of box,centre,propagated
+63c18e2d-dba5-400c-8e2b-50dfd41a8adf,3930159,Hungary,42822,András Schäfer,Left Defensive Midfield,78.09948,29.57388,1,6e-05,mid block,centre,direct
+ad9d4acf-62a6-4885-b186-d7a5cf17f3ac,3930159,Hungary,7162,Ádám Nagy,Right Defensive Midfield,104.83775,54.4172,1,-5e-05,box,left (def view),direct
+585b43c7-de94-4470-94f3-20c7d801d32f,3930159,Switzerland,6983,Remo Freuler,Right Defensive Midfield,84.86638,6.09615,2,0.00039,mid block,right (def view),propagated
+cd3f4c27-c886-40ce-9d5a-8cdaae8c7037,3930159,Switzerland,6983,Remo Freuler,Right Defensive Midfield,85.4151,7.19163,1,0.00105,mid block,right (def view),propagated
+b33ab379-622f-4298-b949-eebbfbf55491,3930159,Switzerland,6983,Remo Freuler,Right Defensive Midfield,84.14329,9.29044,1,0.00052,mid block,right (def view),propagated
+bf9a528c-26d7-4fb8-89d1-89bea739d5b9,3930159,Switzerland,6983,Remo Freuler,Right Defensive Midfield,78.46746,10.83343,2,0.00083,mid block,right (def view),direct
+44db96f8-6f2b-488e-ae8a-5a2ef8ed08e5,3930159,Switzerland,6983,Remo Freuler,Right Defensive Midfield,90.92156,17.89934,1,0.00119,edge of box,right (def view),propagated
+9c373921-118c-4975-b9d2-5add169af830,3930159,Switzerland,6983,Remo Freuler,Right Defensive Midfield,90.74356,18.83585,1,0.00028,edge of box,right (def view),propagated
+7da3faa5-4c6a-485f-b23f-213fc3f1333f,3930159,Switzerland,45190,Dan Ndoye,Right Attacking Midfield,79.76385,15.82052,2,0.00031,mid block,right (def view),propagated
+e2ccdc53-5f74-45c5-8e76-c57db408b4dd,3930159,Hungary,7162,Ádám Nagy,Right Defensive Midfield,93.7887,20.93606,2,0.00034,edge of box,right (def view),direct
+e2ccdc53-5f74-45c5-8e76-c57db408b4dd,3930159,Hungary,7162,Ádám Nagy,Right Defensive Midfield,100.74506,24.59193,1,0.00034,edge of box,right (def view),propagated
+c2541999-6d0f-4ed2-a692-2fb4112f1270,3930159,Hungary,7162,Ádám Nagy,Right Defensive Midfield,99.16447,25.08179,2,0.0001,edge of box,right (def view),propagated
+3f5f2604-3a57-441a-aa3f-34faf330073d,3930159,Hungary,7162,Ádám Nagy,Right Defensive Midfield,90.92916,12.49256,1,0.00014,edge of box,right (def view),propagated
+3f5f2604-3a57-441a-aa3f-34faf330073d,3930159,Hungary,7162,Ádám Nagy,Right Defensive Midfield,95.35741,21.13517,3,-0.00019,edge of box,right (def view),propagated
+bea44736-dd70-4d6a-9336-2e282c6b7875,3930159,Hungary,7162,Ádám Nagy,Right Defensive Midfield,87.27703,14.21897,2,0.00023,mid block,right (def view),propagated
+53e5c1c2-dbbf-4411-aedc-afcc0ffcbb04,3930159,Hungary,16502,László Kleinheisler,Right Defensive Midfield,92.54668,9.98041,1,0.00383,edge of box,right (def view),propagated
+af1d3e08-25d3-4eee-adf6-2ffadf4e3ddd,3930159,Hungary,21209,Dominik Szoboszlai,Right Attacking Midfield,87.95561,35.13953,1,0.0,mid block,centre,propagated
+33102008-70b8-46e5-8529-985ebc4759ac,3930159,Hungary,21209,Dominik Szoboszlai,Right Attacking Midfield,87.47157,34.40654,1,6e-05,mid block,centre,propagated
+d0f446ba-a4c4-498d-b10e-868cd830c5d5,3930160,Croatia,5456,Mateo Kovačić,Left Center Midfield,63.19941,15.50599,1,7e-05,high,right (def view),direct
+1db9eb36-dc70-4672-8f73-294149eb373d,3930160,Croatia,5463,Luka Modrić,Right Center Midfield,72.0611,37.24654,1,0.00016,high,centre,propagated
+aaef1e0b-d1b9-41af-9c95-757467d75f8d,3930160,Croatia,8654,Ante Budimir,Center Forward,66.038,45.76497,1,-0.00182,high,centre,propagated
+517e3ab8-d93c-4c82-90b8-9931faebfc85,3930160,Croatia,5463,Luka Modrić,Right Center Midfield,78.34165,61.27289,1,0.00085,mid block,left (def view),direct
+9bc5898b-3fff-4108-8324-2233e8c610dc,3930160,Croatia,39490,Luka Sučić,Right Wing,71.38776,24.9183,1,0.00049,high,right (def view),direct
+32c7aacf-6bba-40ab-96e1-8c2a6830f3bc,3930160,Croatia,5469,Marcelo Brozović,Center Defensive Midfield,72.03988,24.78394,1,-8e-05,high,right (def view),propagated
+a341b7b4-cfe8-42cc-b77a-e6b2a71dc8e2,3930160,Spain,24921,Martín Zubimendi,Right Defensive Midfield,78.83171,45.68917,1,-0.00013,mid block,centre,propagated
+ae735eca-7e5a-4765-b36a-056f792e7ab6,3930160,Croatia,49337,Josip Stanišić,Right Back,98.00632,30.15426,3,0.00015,edge of box,centre,propagated
+9e68e2b6-5cf0-445a-8acf-086b550ec19b,3930160,Spain,6655,Fabián Ruiz,Left Defensive Midfield,80.77236,17.61844,1,0.00046,mid block,right (def view),propagated
+567c491f-0eeb-4abc-ae9a-e8a34828fc91,3930161,Albania,57303,Kristjan Asllani,Left Defensive Midfield,97.23561,37.78425,2,0.0037,edge of box,centre,direct
+7868bcb4-d350-4dfe-94d9-fc9a86a8402f,3930161,Italy,8181,Nicolò Barella,Left Center Midfield,87.09733,50.0426,1,0.00048,mid block,centre,direct
+0c9dc717-382a-4ba7-ad4f-dc1f8fbfdef7,3930161,Albania,32030,Nedim Bajrami,Center Attacking Midfield,65.78508,58.78168,1,0.0003,high,left (def view),propagated
+f6e1b694-3f51-429d-9830-b7bcc8b0cdec,3930161,Albania,24438,Ylber Ramadani,Right Defensive Midfield,76.35158,57.66902,1,0.00015,mid block,left (def view),propagated
+6b3a6f85-2b28-45e8-9fef-73b63e39c1a5,3930161,Albania,41186,Jasir Asani,Right Wing,78.87884,17.0187,1,0.00214,mid block,right (def view),direct
+9bde05d9-425c-4825-ac12-c0c40f7e65c4,3930161,Albania,32030,Nedim Bajrami,Center Attacking Midfield,63.18493,38.32394,1,0.00011,high,centre,direct
+e2fa5693-390c-4b03-b10e-4a8ef84bbf98,3930161,Albania,49097,Mario Mitaj,Left Back,76.28396,52.43341,1,0.00125,mid block,centre,propagated
+05835762-eaa3-49dc-852e-147369363caa,3930161,Italy,30926,Davide Frattesi,Right Center Midfield,73.62485,35.24703,1,0.0003,high,centre,propagated
+dc3f8442-3dc3-4768-8067-7f10c0cc3725,3930161,Italy,30926,Davide Frattesi,Right Center Midfield,69.83858,31.68935,1,-0.00045,high,centre,propagated
+031b0f0d-34e0-40b3-92b8-909ca1a26a91,3930162,Slovenia,31089,Jan Mlakar,Left Midfield,105.87126,52.57835,2,0.00068,box,centre,propagated
+702be885-953b-4ebd-8265-66a4c51f356a,3930162,Slovenia,31968,Adam Gnezda Čerin,Right Defensive Midfield,96.68185,12.3627,1,-0.00154,edge of box,right (def view),propagated
+f0bf4412-e9ef-443e-aec9-370799d7eb11,3930162,Slovenia,28211,Erik Janža,Left Back,74.73381,77.36702,1,0.00223,high,left (def view),propagated
+20d5fc4b-17f7-4727-bb3e-8cd159d1d0c4,3930162,Slovenia,31968,Adam Gnezda Čerin,Right Defensive Midfield,85.0156,45.35234,1,0.001,mid block,centre,propagated
+3c7c5228-287e-4127-bfff-95183ea786f3,3930162,Slovenia,31968,Adam Gnezda Čerin,Right Defensive Midfield,84.20475,49.09711,1,0.00292,mid block,centre,propagated
+367fa166-1324-4324-8e7c-9cfb38e1c755,3930162,Slovenia,31089,Jan Mlakar,Left Midfield,66.01403,66.0312,1,-0.00094,high,left (def view),propagated
+399b17e1-07ac-4a51-9b08-87d351fc9289,3930162,Slovenia,137487,Žan Karničnik,Right Back,64.87705,17.89063,2,-0.0,high,right (def view),direct
+d8d543d6-c88f-4545-884a-0f4d263bc449,3930162,Slovenia,205932,Vanja Drkušić,Right Center Back,90.28784,37.19704,1,0.00107,edge of box,centre,direct
+1f2b3d04-172f-4330-b180-31a723c174da,3930162,Slovenia,11416,Jon Gorenc-Stankovic,Left Defensive Midfield,75.69525,40.77943,2,0.00033,mid block,centre,propagated
+06879afa-9835-4e7e-9dc9-2b76d8a23fd9,3930162,Slovenia,28211,Erik Janža,Left Back,90.5224,53.43565,1,-3e-05,edge of box,left (def view),propagated
+2a01dffa-6048-4890-938c-382d1c32438c,3930162,Slovenia,16510,Benjamin Verbič,Right Midfield,100.0786,47.54242,1,-0.00048,edge of box,centre,direct
+66b17c66-1c88-41ef-b436-7ed6a5ca5431,3930162,Slovenia,31968,Adam Gnezda Čerin,Right Defensive Midfield,93.85663,50.53118,1,0.00046,edge of box,centre,propagated
+4f1e330d-eaf1-4b6c-94c9-57fc086aa5a5,3930162,Denmark,3043,Christian Eriksen,Left Wing,54.67077,41.46985,1,9e-05,high,centre,direct
+b347b2fe-9cd0-4dd5-84b6-ec5584de0f94,3930163,Serbia,27719,Strahinja Pavlović,Left Center Back,99.6518,66.25345,1,0.00024,edge of box,left (def view),propagated
+a9b288be-b4e2-4b15-91d3-f50f666fe6e1,3930163,Serbia,5589,Sergej Milinković-Savić,Left Defensive Midfield,101.37209,41.32935,2,-9e-05,edge of box,centre,propagated
+d324df75-7839-460e-9197-37a2c0e13345,3930163,Serbia,6687,Saša Lukić,Center Defensive Midfield,82.59655,21.97359,1,0.00032,mid block,right (def view),propagated
+094ba4ad-4f3a-4d3d-83fb-dd58396e9e65,3930163,Serbia,27719,Strahinja Pavlović,Left Center Back,95.33693,64.97893,1,0.00053,edge of box,left (def view),direct
+e0b4d630-8ae1-4a0c-b544-1c3a14d2cf5d,3930163,Serbia,16489,Nemanja Gudelj,Left Defensive Midfield,73.96955,45.73753,1,0.00015,high,centre,direct
+b6af8ae1-832f-4848-8cef-b18cd9ab72b4,3930163,England,3943,Declan Rice,Left Defensive Midfield,74.93759,56.66326,2,0.00054,high,left (def view),propagated
+dfeb6fcf-f7b7-4397-b9b7-52c8fe5b6bfe,3930163,England,3943,Declan Rice,Left Defensive Midfield,93.45155,32.42555,1,-0.00016,edge of box,centre,propagated
+976153e8-ed9d-465b-ada2-0fe5971b8eda,3930163,England,3943,Declan Rice,Left Defensive Midfield,98.14099,65.05215,1,-0.00073,edge of box,left (def view),direct
+3dea51d3-165d-4caf-9480-a8601f5d4cbc,3930163,Serbia,27719,Strahinja Pavlović,Left Center Back,91.83243,57.03935,1,0.00044,edge of box,left (def view),direct
+4a70614d-991c-400f-bbf9-fa9885fe085a,3930163,England,30714,Jude Bellingham,Center Attacking Midfield,86.27764,50.38666,1,9e-05,mid block,centre,propagated
+c7c6626f-c347-4728-a238-268ca24308d5,3930163,England,29399,Conor Gallagher,Right Defensive Midfield,96.72376,28.756,2,0.00017,edge of box,centre,direct
+68cd644f-b2bf-42e3-9a78-948b27c4025b,3930164,Slovakia,6798,Stanislav Lobotka,Center Defensive Midfield,97.64512,25.49146,1,0.00033,edge of box,right (def view),propagated
+38d25f58-26ac-4f07-bb79-c1244c24d312,3930164,Slovakia,6798,Stanislav Lobotka,Center Defensive Midfield,92.77559,22.29731,1,0.00125,edge of box,right (def view),propagated
+2d0cb300-5ae9-4439-bc8f-cbb9933dac3d,3930164,Belgium,48347,Amadou Onana,Left Defensive Midfield,61.03752,30.7284,1,2e-05,high,centre,direct
+134b01a4-71f0-42e6-8fe7-4e26ba1c68e1,3930164,Belgium,48347,Amadou Onana,Left Defensive Midfield,76.56367,16.34387,1,0.00072,mid block,right (def view),propagated
+a06d89ab-8e87-41d7-b246-d9f8b4606011,3930164,Slovakia,6798,Stanislav Lobotka,Center Defensive Midfield,69.55622,42.86931,1,3e-05,high,centre,propagated
+a92f4f21-5939-439a-a044-da47afb55bfd,3930164,Belgium,48347,Amadou Onana,Left Defensive Midfield,99.14702,21.10074,1,0.00143,edge of box,right (def view),propagated
+c679c8b4-09aa-42bd-8153-89c14603a1ca,3930164,Slovakia,6990,Milan Škriniar,Left Center Back,96.98141,38.61501,1,-2e-05,edge of box,centre,propagated
+e25f8202-33a6-48e7-bf0e-ffc54df81132,3930164,Slovakia,8967,Ondrej Duda,Left Center Midfield,98.48899,45.76344,2,0.03289,edge of box,centre,propagated
+890793e0-4f7b-4bf8-958c-ff36ed39bae0,3930164,Belgium,3089,Kevin De Bruyne,Center Attacking Midfield,91.99684,50.74269,1,-4e-05,edge of box,centre,direct
+efd7b296-ac46-4c1d-b6a0-d94501f6dd7f,3930164,Slovakia,10919,Juraj Kucka,Right Center Midfield,83.54652,29.16085,1,0.00071,mid block,centre,direct
+4f89ea5d-4a9c-48a6-9935-77315c1fd258,3930164,Slovakia,43976,David Strelec,Center Forward,69.74001,45.03477,1,-0.00119,high,centre,propagated
+066ee208-f23e-4571-8b1c-3a41831b1a92,3930164,Slovakia,43976,David Strelec,Center Forward,70.88892,56.97312,1,-0.00132,high,left (def view),direct
+fea43722-55ae-42f3-b5a4-7dfa47539d56,3930164,Slovakia,6798,Stanislav Lobotka,Center Defensive Midfield,83.20351,31.161,1,0.00015,mid block,centre,propagated
+d54b6637-0c24-4488-9278-767c05a68bb5,3930164,Slovakia,6798,Stanislav Lobotka,Center Defensive Midfield,90.53345,32.24294,2,-6e-05,edge of box,centre,propagated
+72cd5a34-581f-4250-973e-cef46b4aacec,3930164,Belgium,52218,Johan Bakayoko,Right Wing,51.25353,48.55761,1,-2e-05,high,centre,direct
+0bb228c3-8529-48e6-bc75-5c9394c84ee6,3930164,Belgium,52218,Johan Bakayoko,Right Wing,52.67429,50.27278,1,5e-05,high,centre,direct
+82f5dce0-7dd6-4e4b-ba24-3b1e74e24f57,3930165,Austria,24977,Christoph Baumgartner,Center Attacking Midfield,62.30513,65.11043,1,-0.00011,high,left (def view),direct
+539ee3d8-f64e-4344-83ff-6dad50e0b396,3930165,France,3026,Adrien Rabiot,Left Center Midfield,74.15527,28.33314,1,0.00044,high,centre,direct
+32534dda-3c53-43fd-afec-3c009f720611,3930165,Austria,8518,Marcel Sabitzer,Left Wing,66.04794,58.87954,1,2e-05,high,left (def view),propagated
+bcc9b3de-ce77-417c-a054-3e1c8ede2cbf,3930165,Austria,24977,Christoph Baumgartner,Center Attacking Midfield,78.34552,34.02427,1,-0.00026,mid block,centre,propagated
+604ae24e-29a8-41da-b060-430b6899bde1,3930165,France,3961,N'Golo Kanté,Right Center Midfield,72.17445,40.18748,1,0.00016,high,centre,propagated
+828dea1e-926f-4697-a39f-1b9a302ee9c8,3930165,France,3961,N'Golo Kanté,Right Center Midfield,77.81892,37.36181,1,0.0007,mid block,centre,propagated
+58e1d5f1-4ade-4f44-a414-e8d891ac1d89,3930165,Austria,11396,Florian Grillitsch,Left Defensive Midfield,93.14841,58.57903,1,-0.00015,edge of box,left (def view),direct
+c36d3bd3-d195-42bd-80ba-5ff6a103dd50,3930165,France,5487,Antoine Griezmann,Center Attacking Midfield,88.74857,23.69091,2,0.00169,mid block,right (def view),propagated
+548a8c83-ea05-49a6-841e-7caa6ef0f036,3930165,France,17592,William Saliba,Left Center Back,82.2816,37.20639,1,0.00041,mid block,centre,propagated
+ff42e0c4-34f2-4476-8da3-0e49698ee9bc,3930165,France,3961,N'Golo Kanté,Right Center Midfield,96.26025,16.44184,1,0.0044,edge of box,right (def view),direct
+527fe1d7-4ac1-44aa-bbdc-5261172e9f6c,3930165,France,3961,N'Golo Kanté,Right Center Midfield,96.46404,16.01423,1,0.00043,edge of box,right (def view),propagated
+ea12f3e3-5ff1-4c44-b0ce-f565072b901c,3930165,France,5487,Antoine Griezmann,Center Attacking Midfield,84.75654,25.53996,1,-0.00223,mid block,right (def view),propagated
+2f63b8dc-0238-48bc-8d5d-e67398dff303,3930165,France,17592,William Saliba,Left Center Back,104.25124,21.94082,1,0.00046,box,right (def view),direct
+5720323d-c006-4a03-a63f-3da2f347f9ae,3930165,France,2972,Marcus Thuram,Center Forward,74.53585,53.09292,1,-0.00178,high,centre,direct
+667d2734-cb97-451a-9f60-d29bf9df837a,3930165,France,3961,N'Golo Kanté,Right Center Midfield,77.03859,39.86071,1,0.00018,mid block,centre,direct
+1579249c-5cf4-43d8-9aa8-fbf008b633d7,3930165,France,24778,Eduardo Camavinga,Left Center Midfield,78.79105,38.54531,2,0.00031,mid block,centre,propagated
+9f3223b1-8b92-453d-9d74-7977b1c393c3,3930165,France,24778,Eduardo Camavinga,Left Center Midfield,83.06995,37.25334,1,0.00212,mid block,centre,direct
+375b7019-858c-40fe-8a8d-db8cf0469f72,3930166,Czech Republic,4870,Tomáš Souček,Right Defensive Midfield,78.7782,29.04808,2,0.0,mid block,centre,direct
+3867272a-3151-491e-a715-c8d841cad17c,3930166,Czech Republic,4870,Tomáš Souček,Right Defensive Midfield,73.54874,33.30233,1,8e-05,high,centre,propagated
+b5b73a76-d392-4c78-8393-81a8d4d22569,3930166,Czech Republic,4870,Tomáš Souček,Right Defensive Midfield,69.86384,32.77525,1,1e-05,high,centre,propagated
+31cc9869-c566-4f5e-89b5-a6b1f3ef00ca,3930166,Czech Republic,7044,Patrik Schick,Center Forward,83.28767,21.40851,2,0.00084,mid block,right (def view),propagated
+cf975453-ec18-41cb-a6ea-f83e030d97a1,3930166,Czech Republic,7044,Patrik Schick,Center Forward,85.94736,26.82496,1,-2e-05,mid block,centre,direct
+d90b538e-2ccb-45cb-8a04-488deb614bbf,3930166,Czech Republic,28034,Lukáš Provod,Left Center Midfield,91.74898,16.70106,2,0.00011,edge of box,right (def view),propagated
+31da59cb-a689-4d9f-9af8-6266311e1ce2,3930166,Czech Republic,28034,Lukáš Provod,Left Center Midfield,90.4724,20.63561,1,0.00011,edge of box,right (def view),direct
+a0a7bae8-882b-4a1e-886f-281eb25fd45a,3930166,Czech Republic,28272,Ladislav Krejčí,Left Center Back,101.74835,47.50721,1,0.00221,edge of box,centre,propagated
+ec6ee652-0ff1-4148-80a4-07baca54604e,3930166,Czech Republic,7044,Patrik Schick,Center Forward,79.97298,66.60119,1,0.00029,mid block,left (def view),propagated
+ec6ee652-0ff1-4148-80a4-07baca54604e,3930166,Czech Republic,28272,Ladislav Krejčí,Left Center Back,95.0522,45.93757,1,0.00914,edge of box,centre,propagated
+382c62e2-e001-485d-8a7c-46244b4214b0,3930166,Czech Republic,28272,Ladislav Krejčí,Left Center Back,95.78168,43.82011,1,0.00478,edge of box,centre,propagated
+c359a9df-3f6e-4b8e-8fb1-f3db702a4836,3930166,Czech Republic,27826,Ondřej Lingr,Left Attacking Midfield,95.02559,33.51274,1,0.00017,edge of box,centre,propagated
+356f7ee7-474f-4044-bac1-14e0d4539da6,3930166,Czech Republic,7801,Antonín Barák,Left Defensive Midfield,79.47423,14.65562,1,0.00216,mid block,right (def view),propagated
+fb79e949-ae73-4edf-8ba9-c9815e27541d,3930167,Albania,23987,Rey Manaj,Center Forward,70.3683,30.2471,1,-0.00191,high,centre,propagated
+628050c0-5c68-424b-b0c5-531f005a4a4d,3930167,Albania,23987,Rey Manaj,Center Forward,84.87331,47.28624,1,-0.00275,mid block,centre,propagated
+90269e8d-da59-47d8-9e55-0c75298438f4,3930167,Albania,8291,Arlind Afrim Ajeti,Right Center Back,106.8418,31.0154,1,-0.00029,box,centre,propagated
+adcc86cd-95a3-4f6e-a014-f5424c5e8f1e,3930167,Croatia,5469,Marcelo Brozović,Center Defensive Midfield,84.6953,44.53013,1,0.00213,mid block,centre,direct
+25807b55-c2e5-41dc-8249-eb728a7f29ae,3930167,Albania,23987,Rey Manaj,Center Forward,90.84484,28.56811,1,0.0008,edge of box,centre,propagated
+a5fcfbd5-d912-433d-85e5-7bd6b207d369,3930167,Albania,7031,Elseid Hysaj,Right Back,105.75686,35.25573,1,0.00019,box,centre,propagated
+a84b6628-3b61-4b22-889f-82bbc1d7e96b,3930167,Albania,24438,Ylber Ramadani,Right Defensive Midfield,85.46894,54.50178,1,0.00149,mid block,left (def view),propagated
+88ee02ff-80f5-4594-8e56-38217ce4387e,3930167,Albania,24438,Ylber Ramadani,Right Defensive Midfield,93.1544,57.57976,1,-0.00015,edge of box,left (def view),propagated
+22695d5b-463e-4c53-b969-620200a60079,3930167,Albania,24438,Ylber Ramadani,Right Defensive Midfield,94.18919,42.68113,1,0.00041,edge of box,centre,direct
+45c76c94-dfdf-4251-9b60-ab696832eb27,3930167,Albania,7531,Qazim Laçi,Center Attacking Midfield,82.92187,32.30761,1,0.00098,mid block,centre,propagated
+c6dcf3e0-fe9d-429f-a608-c9db2e6055a0,3930167,Albania,7531,Qazim Laçi,Center Attacking Midfield,86.39639,34.99211,1,-0.00073,mid block,centre,direct
+d22c2d4e-b4e3-45b6-8245-a6ec3fba3819,3930167,Albania,32030,Nedim Bajrami,Center Attacking Midfield,89.11096,44.27194,2,0.00198,mid block,centre,propagated
+6e6a7498-bd31-43cb-b76e-c5f31f5fdfbb,3930167,Albania,41186,Jasir Asani,Right Wing,89.55201,39.17758,1,-0.00406,mid block,centre,propagated
+8f32d5b2-484d-4f60-836e-04d41f67cb97,3930167,Albania,32030,Nedim Bajrami,Center Attacking Midfield,89.65123,52.89122,1,0.0003,mid block,centre,direct
+8f32d5b2-484d-4f60-836e-04d41f67cb97,3930167,Albania,24438,Ylber Ramadani,Right Defensive Midfield,91.65533,42.78461,1,0.00108,edge of box,centre,direct
+4cb79e37-3a7f-4655-bd00-076da58fff00,3930167,Albania,32030,Nedim Bajrami,Center Attacking Midfield,91.0988,54.10128,1,-0.00209,edge of box,left (def view),propagated
+3dce9d5a-9640-4354-ac31-eff796df46da,3930167,Albania,7531,Qazim Laçi,Center Attacking Midfield,81.74227,22.95293,2,0.00016,mid block,right (def view),propagated
+a5b6f34c-11d0-4a37-b0f1-e29a90e5d767,3930167,Albania,24438,Ylber Ramadani,Right Defensive Midfield,77.17604,35.27244,1,0.00102,mid block,centre,direct
+945b45e2-f726-4f28-950c-2573c37f3fd3,3930167,Albania,7531,Qazim Laçi,Center Attacking Midfield,87.69135,50.80244,2,0.00095,mid block,centre,propagated
+d54bc6dd-2a42-436b-b8dd-3599fcd440d8,3930167,Albania,8291,Arlind Afrim Ajeti,Right Center Back,101.90001,43.44331,1,-2e-05,edge of box,centre,propagated
+38622e0c-8bd3-4f7f-bc78-6c775aacf41a,3930167,Albania,8291,Arlind Afrim Ajeti,Right Center Back,102.37247,37.08103,2,0.00044,box,centre,propagated
+38622e0c-8bd3-4f7f-bc78-6c775aacf41a,3930167,Albania,7108,Berat Djimsiti,Left Center Back,105.48156,48.37901,1,-9e-05,box,centre,propagated
+7ac90b52-9346-45fc-984c-db89210c5a99,3930168,Hungary,21209,Dominik Szoboszlai,Right Attacking Midfield,67.23591,29.17297,1,-0.00164,high,centre,propagated
+4fa01b29-5ea6-4609-8982-bec809f41fae,3930168,Hungary,11268,Attila Fiola,Right Center Back,76.43684,13.43322,1,5e-05,mid block,right (def view),direct
+644c6f27-b301-4598-bff6-0c6effffed98,3930168,Hungary,11268,Attila Fiola,Right Center Back,78.11857,11.20492,1,0.00097,mid block,right (def view),propagated
+c0506f74-86e7-47e8-979c-932d357830fa,3930168,Hungary,11268,Attila Fiola,Right Center Back,82.59094,14.33708,1,0.00047,mid block,right (def view),propagated
+a1475ff5-5a3c-4c9d-9ba7-daf49ba90671,3930168,Germany,9195,Robert Andrich,Right Defensive Midfield,89.38155,53.1896,1,-0.00031,mid block,centre,propagated
+6a674abf-398e-4ba0-9214-f95be5082e4e,3930168,Hungary,40920,Márton Dárdai,Left Center Back,92.16795,64.08909,3,-0.00033,edge of box,left (def view),propagated
+76683281-17d8-4922-beff-bc4d2dbd5b66,3930168,Hungary,42822,András Schäfer,Left Defensive Midfield,86.53809,39.06523,1,0.00226,mid block,centre,direct
+58be5ad2-0bbc-44e4-9cd5-53e1b6ce7b10,3930168,Hungary,8509,Willi Orban,Center Back,93.23947,51.46952,1,0.00059,edge of box,centre,propagated
+41af5d8d-abcb-451e-b9cc-e5939cb45d09,3930168,Hungary,46789,Bendegúz Bolla,Right Wing Back,79.58494,15.18121,1,0.00123,mid block,right (def view),direct
+6831d625-a432-454c-a1bc-8391ab5d9ee5,3930168,Germany,10287,İlkay Gündoğan,Center Attacking Midfield,96.08814,19.50997,1,0.01032,edge of box,right (def view),direct
+5ab186bd-5e96-4c64-b87d-c40c1e8170e4,3930168,Hungary,21209,Dominik Szoboszlai,Right Attacking Midfield,81.48695,37.2818,1,-0.00058,mid block,centre,propagated
+76361b8a-7459-48c5-af93-4814de8ea517,3930168,Hungary,42822,András Schäfer,Left Defensive Midfield,99.10357,34.81186,1,-1e-05,edge of box,centre,direct
+62429b0d-2686-4a7f-b188-b2d1171a91e5,3930168,Hungary,12921,Barnabás Varga,Center Forward,68.4907,30.21007,1,5e-05,high,centre,propagated
+77c7dca1-8e2e-4d58-92da-cac0a02fe3b5,3930168,Hungary,8509,Willi Orban,Center Back,93.33782,45.30952,1,0.00548,edge of box,centre,propagated
+4d70189b-51ae-43ce-a15b-533c08bcb788,3930168,Hungary,8509,Willi Orban,Center Back,94.76368,48.27477,1,0.00074,edge of box,centre,propagated
+6cead041-b841-4b06-8405-cc6272eb32ec,3930168,Germany,3053,Leroy Sané,Right Wing,79.14352,13.25111,1,-0.00576,mid block,right (def view),direct
+65db9d0a-13f1-4ca4-8e63-93d11288485f,3930169,Switzerland,3500,Granit Xhaka,Left Defensive Midfield,106.59867,31.98962,3,-0.00075,box,centre,propagated
+62384b01-eb17-4081-94ff-f8991dbf45fe,3930169,Scotland,10534,Callum McGregor,Left Defensive Midfield,66.0371,51.14192,2,0.00043,high,centre,direct
+f9eed1da-5a39-486f-b135-ca3a581c76cd,3930169,Scotland,3620,Scott McTominay,Right Center Midfield,56.69336,36.4026,1,-0.00044,high,centre,propagated
+7cf5998f-853b-482f-b0cd-727875c917d3,3930169,Switzerland,30401,Ruben Vargas,Left Attacking Midfield,68.47526,25.39024,1,-0.00012,high,right (def view),propagated
+1fc102c7-0c79-40e7-83ea-a53e2fc368fc,3930169,Switzerland,30401,Ruben Vargas,Left Attacking Midfield,73.56203,31.85382,1,-0.00064,high,centre,propagated
+a7f1a727-8f8a-4d2d-bfac-95951c308073,3930169,Switzerland,30401,Ruben Vargas,Left Attacking Midfield,73.62891,64.74089,1,0.00012,high,left (def view),direct
+a7f1a727-8f8a-4d2d-bfac-95951c308073,3930169,Switzerland,30401,Ruben Vargas,Left Attacking Midfield,73.89591,29.10944,1,-0.00063,high,centre,propagated
+c1ca1a1e-fa60-4884-b9f9-e6bf4cb2bf77,3930169,Switzerland,30401,Ruben Vargas,Left Attacking Midfield,73.23705,31.77424,1,0.00011,high,centre,propagated
+c1ca1a1e-fa60-4884-b9f9-e6bf4cb2bf77,3930169,Switzerland,30401,Ruben Vargas,Left Attacking Midfield,73.27577,65.18517,1,0.00017,high,left (def view),direct
+8f2d5f79-7852-44ff-b277-d836e1383d2f,3930169,Switzerland,6983,Remo Freuler,Right Defensive Midfield,82.2844,28.78893,1,7e-05,mid block,centre,propagated
+9ca173f8-b8fb-4ff7-8aa4-b5b2bc5edc76,3930169,Switzerland,6983,Remo Freuler,Right Defensive Midfield,80.98276,37.26347,1,0.00097,mid block,centre,direct
+66fed00a-2f5c-4ca0-812e-3f6eb1ff5661,3930169,Switzerland,6983,Remo Freuler,Right Defensive Midfield,93.93824,5.36671,1,0.00011,edge of box,right (def view),propagated
+991db67f-e17e-4c43-8f21-ec9521a2b82c,3930169,Scotland,3655,Andrew Robertson,Left Wing Back,107.34193,71.21055,1,0.00469,box,left (def view),propagated
+f109d06a-f66c-4a3d-9f0c-176b75da54b3,3930169,Scotland,10534,Callum McGregor,Left Defensive Midfield,72.7776,56.7892,3,-0.00199,high,left (def view),propagated
+cabe03bf-0317-4a38-84ac-b946a581c8d3,3930169,Switzerland,3500,Granit Xhaka,Left Defensive Midfield,82.61711,53.52013,1,0.00036,mid block,left (def view),propagated
+668af468-be79-4423-a0c6-4bbc75fddb38,3930170,Slovenia,137487,Žan Karničnik,Right Back,99.24305,6.13353,1,0.00278,edge of box,right (def view),direct
+e873f617-3001-43a4-ae89-9f291128b543,3930170,Slovenia,137487,Žan Karničnik,Right Back,97.23698,14.661,1,0.0032,edge of box,right (def view),propagated
+79bdad25-fa45-4cfb-b6ed-f7d12bd2f02f,3930170,Slovenia,205932,Vanja Drkušić,Right Center Back,100.96871,23.16638,2,-0.00011,edge of box,right (def view),direct
+d3f24f66-30ac-4030-8087-37523d2b54af,3930170,Slovenia,16047,Jaka Bijol,Left Center Back,99.29409,46.10304,1,0.0011,edge of box,centre,direct
+01b72c6c-560f-40f0-964b-581b28d9a804,3930170,Slovenia,205932,Vanja Drkušić,Right Center Back,83.89735,27.47952,1,0.00205,mid block,centre,propagated
+c5d8f6c8-509e-450c-a285-f9484f09cf90,3930170,Slovenia,205932,Vanja Drkušić,Right Center Back,103.56432,36.63478,1,-2e-05,box,centre,direct
+2f2b73a3-ef1b-4bf4-86ac-a268a581c133,3930171,Denmark,3570,Pierre-Emile Højbjerg,Left Defensive Midfield,75.72013,34.02552,1,5e-05,mid block,centre,propagated
+ce663b03-99a1-4baa-b0be-0ace54926874,3930171,Denmark,3570,Pierre-Emile Højbjerg,Left Defensive Midfield,69.29157,45.12008,1,-0.00016,high,centre,propagated
+84e483c1-dbd3-4750-885b-2d34fe5f6999,3930171,England,30714,Jude Bellingham,Center Attacking Midfield,73.11101,47.15559,1,-0.00031,high,centre,propagated
+d2854854-a3ed-4778-853b-bd81b6d2e276,3930171,England,34526,Marc Guehi,Left Center Back,99.90565,47.80646,1,0.00023,edge of box,centre,direct
+a61aa12f-89ab-404e-868b-f0c24c56c3eb,3930171,England,34526,Marc Guehi,Left Center Back,102.26211,44.39434,2,0.00027,box,centre,propagated
+5bd9642f-22fb-4b10-8862-23368141b8b4,3930171,Denmark,3959,Andreas Christensen,Left Center Back,75.68947,55.40899,1,0.00088,mid block,left (def view),propagated
+78f636c4-66f3-4f1a-ac79-b626dc1ccff1,3930171,England,3943,Declan Rice,Left Defensive Midfield,104.69462,55.44856,1,0.00138,box,left (def view),propagated
+a5349b19-8fd1-4fd6-86bb-ac2eb224d298,3930171,England,3664,Trent Alexander-Arnold,Right Defensive Midfield,91.05444,37.33608,1,1e-05,edge of box,centre,propagated
+9fe2ac3a-bc95-428f-a772-a5a025980fea,3930171,Denmark,8621,Morten Hjulmand,Right Defensive Midfield,88.63166,29.16147,1,0.00058,mid block,centre,direct
+de6ee7f9-8532-476c-9ca3-3006cf63b7dc,3930171,England,4354,Phil Foden,Left Wing,69.53335,66.48352,2,0.0019,high,left (def view),direct
+adebb18b-7450-4151-95e4-fa218a7de2d5,3930171,England,29399,Conor Gallagher,Right Defensive Midfield,90.55052,65.14715,1,-2e-05,edge of box,left (def view),propagated
+93501beb-6563-4a71-b196-8c7139b791e3,3930172,Italy,41768,Riccardo Calafiori,Left Center Back,78.76776,47.46743,1,0.00021,mid block,centre,propagated
+1102bfe5-6d3b-4090-a246-60b1892d336d,3930172,Spain,6765,Rodri,Right Defensive Midfield,76.18114,36.44795,1,0.00139,mid block,centre,direct
+bb75c9fa-1a76-4faa-9899-a5af028697f4,3930172,Spain,30486,Pedri,Center Attacking Midfield,73.4591,40.26187,2,-0.00071,high,centre,propagated
+bb75c9fa-1a76-4faa-9899-a5af028697f4,3930172,Spain,6655,Fabián Ruiz,Left Defensive Midfield,81.67151,51.04673,2,0.0004,mid block,centre,propagated
+bb75c9fa-1a76-4faa-9899-a5af028697f4,3930172,Spain,6765,Rodri,Right Defensive Midfield,82.53561,37.65438,1,0.00121,mid block,centre,direct
+50371d78-cdbd-4e68-9ac0-51c45f9dff80,3930172,Spain,6655,Fabián Ruiz,Left Defensive Midfield,78.79375,48.30895,1,0.00099,mid block,centre,propagated
+b8ed20d5-d905-4035-bbab-9b13a49310a9,3930172,Italy,12255,Federico Dimarco,Left Back,81.01093,68.97132,1,5e-05,mid block,left (def view),propagated
+9acbae3b-f548-42dd-bb2e-22539388b426,3930172,Italy,7024,Jorginho,Center Defensive Midfield,92.34283,42.02408,1,0.0005,edge of box,centre,propagated
+51de73e0-0b47-4b3a-9a59-04da0393c726,3930172,Italy,6963,Lorenzo Pellegrini,Left Wing,90.87624,30.7594,1,0.00155,edge of box,centre,propagated
+8233c909-2da7-423a-b603-d05457348a72,3930172,Italy,6963,Lorenzo Pellegrini,Left Wing,99.00594,29.11044,1,0.00018,edge of box,centre,propagated
+7f8806a7-5baa-46e2-ae73-8544e4d5eb78,3930172,Italy,6963,Lorenzo Pellegrini,Left Wing,103.62142,28.10127,1,0.00262,box,centre,propagated
+3368ef54-e766-4902-af69-9cc4b5a9c65d,3930172,Italy,6963,Lorenzo Pellegrini,Left Wing,96.29702,28.29129,1,0.00119,edge of box,centre,propagated
+3db0cd1e-1be8-4625-a7f4-7441e767eb0f,3930172,Italy,8181,Nicolò Barella,Left Center Midfield,90.38046,36.6545,1,7e-05,edge of box,centre,direct
+128fd7a4-fb2d-42a1-a1c8-ffb8643c2374,3930172,Italy,8181,Nicolò Barella,Left Center Midfield,89.6599,42.0651,1,0.00076,mid block,centre,propagated
+0dd40e83-053e-477f-9841-ae00205a5dd5,3930172,Spain,6765,Rodri,Right Defensive Midfield,79.257,48.3951,1,0.00051,mid block,centre,direct
+043dc71e-28d1-4411-a760-0ef1a52f6f66,3930172,Spain,6765,Rodri,Right Defensive Midfield,92.78772,27.5577,2,0.00471,edge of box,centre,direct
+eb5aeba7-bf5e-4ca1-9348-c78dbb1654fd,3930173,Netherlands,32712,Jeremie Frimpong,Right Wing,98.66326,16.66886,1,0.00233,edge of box,right (def view),direct
+10144c97-b3c1-45fd-8b6a-3f34cc8e842e,3930173,Netherlands,21582,Tijjani Reijnders,Left Defensive Midfield,72.44799,44.12187,2,-0.00015,high,centre,propagated
+014d7f92-71b7-47a8-ba02-1af0436f0d38,3930173,France,3961,N'Golo Kanté,Right Center Midfield,83.43315,60.90282,1,0.00072,mid block,left (def view),propagated
+71e66661-65da-4362-b373-db31e06bf285,3930173,Netherlands,32712,Jeremie Frimpong,Right Wing,87.12364,9.14584,1,0.00043,mid block,right (def view),direct
+c5a90ec1-ab6d-47a2-b3c1-7a447ab9c495,3930173,Netherlands,7787,Stefan de Vrij,Right Center Back,94.50144,24.14099,1,0.00013,edge of box,right (def view),propagated
+b7a7e0f4-16e4-45f0-8a5d-f2cca39d3d78,3930173,Netherlands,7787,Stefan de Vrij,Right Center Back,93.23466,25.67941,1,-0.00013,edge of box,right (def view),propagated
+6752e3cc-95d9-4752-af17-b8df0135ccf0,3930173,Netherlands,20750,Cody Gakpo,Left Wing,95.43079,57.0756,1,-0.00087,edge of box,left (def view),propagated
+deadb3aa-a93f-450c-83fa-50706ae5063c,3930173,Netherlands,15503,Jerdy Schouten,Right Defensive Midfield,88.9689,41.06935,1,2e-05,mid block,centre,propagated
+0062dd1a-cecc-4b3a-8c97-de47fd7bf2bb,3930173,Netherlands,15503,Jerdy Schouten,Right Defensive Midfield,90.22323,35.21158,1,0.00719,edge of box,centre,propagated
+0062dd1a-cecc-4b3a-8c97-de47fd7bf2bb,3930173,Netherlands,15503,Jerdy Schouten,Right Defensive Midfield,90.5102,42.7939,1,0.01206,edge of box,centre,direct
+52124516-5ada-4b04-8deb-06d35db5393f,3930173,Netherlands,15503,Jerdy Schouten,Right Defensive Midfield,90.85807,40.89125,1,0.0007,edge of box,centre,propagated
+80e0913f-e64d-473b-a954-72c348cfdb01,3930173,Netherlands,8125,Denzel Dumfries,Right Back,79.73039,31.7966,1,0.00091,mid block,centre,direct
+edf30fc5-54b5-4004-acca-b611502e93e3,3930173,Netherlands,3306,Nathan Aké,Left Back,97.67657,62.45401,2,0.00696,edge of box,left (def view),direct
+a66edcd5-707a-496e-8a10-bf4af5f4ca05,3930173,France,4445,Jules Koundé,Right Back,67.93296,0.41875,1,-0.00073,high,right (def view),propagated
+5ec6163b-2621-4127-8585-35f277ffd936,3930173,Netherlands,3669,Virgil van Dijk,Left Center Back,91.52046,45.45654,1,0.00309,edge of box,centre,propagated
+45600416-f8ea-4ee1-b620-ff85cd47a1fd,3930173,Netherlands,3669,Virgil van Dijk,Left Center Back,90.11177,47.26708,1,0.00038,edge of box,centre,direct
+e787fa90-eb55-4462-afc2-472f3aaa1b9b,3930174,Portugal,5204,Bruno Fernandes,Center Attacking Midfield,57.01223,71.28842,1,-0.00014,high,left (def view),propagated
+aa4ca605-d80e-415a-8da6-0e1c1084e0ab,3930174,Turkey,12293,Kaan Ayhan,Left Defensive Midfield,83.92499,56.55636,2,0.00058,mid block,left (def view),propagated
+05c745cf-9537-472b-af1f-99d05608f119,3930174,Portugal,34639,Vitinha,Right Defensive Midfield,100.81433,19.4112,2,0.00011,edge of box,right (def view),propagated
+1735e4cc-29a9-4d07-aed8-ec36d15a3c8a,3930174,Turkey,78241,İsmail Yüksek,Left Defensive Midfield,91.14837,18.86333,1,0.00034,edge of box,right (def view),propagated
+f492691d-d22f-4b1f-87c9-08f26e590426,3930174,Portugal,143854,António Silva,Right Center Back,101.56668,25.26063,1,0.00051,edge of box,right (def view),propagated
+093bc5be-1cb1-4312-b4da-98b697c726d5,3930174,Portugal,143854,António Silva,Right Center Back,97.43707,20.18671,1,0.00123,edge of box,right (def view),propagated
+90e2032c-4321-4bca-bb0e-56a9e552c6bd,3930174,Turkey,48383,Abdülkerim Bardakcı,Left Center Back,102.47443,24.74776,1,0.01837,box,right (def view),direct
+0b242c87-f6a9-4d24-b55c-14e12216574e,3930174,Turkey,48383,Abdülkerim Bardakcı,Left Center Back,97.71235,26.50511,1,0.00845,edge of box,right (def view),propagated
+65e11bca-8f0c-4727-a2e8-a5e2f4cdf96d,3930174,Turkey,48383,Abdülkerim Bardakcı,Left Center Back,91.72418,22.61496,1,0.00638,edge of box,right (def view),propagated
+088f977e-a449-410d-83d7-27501b4c21af,3930174,Portugal,3193,Bernardo Silva,Center Attacking Midfield,98.34242,29.84811,2,0.00254,edge of box,centre,propagated
+38a716c9-87c3-461d-98fa-923ff3e8217a,3930175,Romania,30913,Marius Marin,Center Defensive Midfield,90.29615,55.21704,1,0.00167,edge of box,left (def view),direct
+c425b5bd-bebc-4820-b635-21eb81f2187e,3930175,Belgium,23650,Jérémy Doku,Left Wing,97.48496,62.28038,1,0.00044,edge of box,left (def view),propagated
+ff51ba4e-94df-439f-9521-615ae04ead0f,3930175,Belgium,48347,Amadou Onana,Left Defensive Midfield,95.02509,30.23465,1,-6e-05,edge of box,centre,propagated
+17da2161-6ff1-4f8b-ba37-33d1046c0d47,3930175,Belgium,48347,Amadou Onana,Left Defensive Midfield,99.22673,30.07887,1,0.0036,edge of box,centre,direct
+0e49449a-104a-4688-b2be-c7ce3336293c,3930175,Belgium,48347,Amadou Onana,Left Defensive Midfield,103.18511,29.43927,1,0.00034,box,centre,direct
+8c12f365-81fa-4fb2-9b98-8c12c280e8ca,3930176,Switzerland,5545,Breel Embolo,Center Forward,67.04018,9.66066,1,-9e-05,high,right (def view),propagated
+42bace82-896c-4825-9fa0-ee1da2277de1,3930176,Switzerland,3500,Granit Xhaka,Left Defensive Midfield,98.91723,51.4921,1,-0.00104,edge of box,centre,propagated
+3193c7f9-b49e-4c1f-956e-916bb31641e9,3930176,Switzerland,5544,Ricardo Rodríguez,Left Center Back,73.39747,50.28924,2,-0.0002,high,centre,propagated
+d33fb163-df80-483e-9a10-0b7d63514f74,3930176,Switzerland,3500,Granit Xhaka,Left Defensive Midfield,85.65132,55.02793,1,0.00011,mid block,left (def view),propagated
+ae22d839-0fbe-4020-93d1-9d900b539893,3930176,Switzerland,16016,Michel Aebischer,Left Wing Back,75.78148,69.56465,1,0.00033,mid block,left (def view),propagated
+1abf4f9d-1ac8-42f4-9737-9865928cdb3e,3930176,Switzerland,50436,Fabian Rieder,Right Attacking Midfield,81.35915,23.42876,1,-0.00566,mid block,right (def view),propagated
+6a7f4312-0358-40c9-95be-4842b9402b5f,3930176,Switzerland,50436,Fabian Rieder,Right Attacking Midfield,84.41374,22.96279,1,-0.00078,mid block,right (def view),propagated
+cf637501-555e-45e1-8d19-1decf1fc98a9,3930176,Switzerland,5544,Ricardo Rodríguez,Left Center Back,91.20872,37.07829,1,0.00023,edge of box,centre,propagated
+d5bb4fa9-dd59-47cb-870b-22b8e609aca4,3930176,Switzerland,5544,Ricardo Rodríguez,Left Center Back,87.13438,36.27891,1,-4e-05,mid block,centre,propagated
+755d6ed7-c19d-4066-ae2d-e05861f32527,3930176,Switzerland,6983,Remo Freuler,Right Defensive Midfield,94.08337,47.52867,1,0.00108,edge of box,centre,propagated
+efed9519-4e63-4c64-af46-b8f0ec33e879,3930176,Switzerland,3500,Granit Xhaka,Left Defensive Midfield,63.67023,15.90206,1,-0.00012,high,right (def view),direct
+fb9e7278-110e-4280-b852-64a6a0da1d45,3930176,Switzerland,5537,Fabian Schär,Right Center Back,94.27439,43.42938,1,0.00052,edge of box,centre,propagated
+13cccb2e-490d-44cd-9709-75e383c21507,3930176,Switzerland,5545,Breel Embolo,Center Forward,65.37023,45.32365,1,-0.00071,high,centre,propagated
+ccdb89d7-bbcf-4bb2-9770-3a6fc792425b,3930176,Switzerland,5544,Ricardo Rodríguez,Left Center Back,88.96052,61.74153,1,0.00052,mid block,left (def view),propagated
+617f9a29-e820-4a14-b5b0-a58b06e1b540,3930176,Switzerland,5544,Ricardo Rodríguez,Left Center Back,87.76104,59.21703,1,0.00252,mid block,left (def view),propagated
+8e487088-194c-45d8-b07c-6761c4e0572b,3930176,Switzerland,6983,Remo Freuler,Right Defensive Midfield,91.4813,48.97931,1,2e-05,edge of box,centre,propagated
+8e487088-194c-45d8-b07c-6761c4e0572b,3930176,Switzerland,5544,Ricardo Rodríguez,Left Center Back,92.91084,61.55586,1,0.0001,edge of box,left (def view),propagated
+c4bff6cd-f9da-4248-9443-a9f7746941cb,3930176,Switzerland,6983,Remo Freuler,Right Defensive Midfield,93.61451,48.26988,1,0.00011,edge of box,centre,propagated
+fcb11fe2-b261-4b37-b2f3-194295de1718,3930176,Switzerland,6983,Remo Freuler,Right Defensive Midfield,92.00203,52.61079,1,2e-05,edge of box,centre,propagated
+73680344-8e12-4a39-96d2-0ace5b4765e2,3930176,Germany,39565,Jamal Musiala,Left Wing,69.00484,56.41469,1,-0.00028,high,left (def view),direct
+4dfb7bfb-017b-4943-b49c-dd36bafb5404,3930176,Switzerland,49007,Kwadwo Duah,Center Forward,57.67834,58.59253,1,-0.00225,high,left (def view),propagated
+a38322b2-2655-4f7e-8d47-6a9bb4d14718,3930176,Germany,10287,İlkay Gündoğan,Center Attacking Midfield,55.64366,63.84368,1,-2e-05,high,left (def view),direct
+5f8713a4-506a-4470-8315-5b16bfc0e8ff,3930177,Hungary,42822,András Schäfer,Left Defensive Midfield,72.4962,37.58383,1,5e-05,high,centre,direct
+18263b5d-2405-4b45-a99d-91ce66b665c5,3930177,Hungary,12921,Barnabás Varga,Center Forward,83.6394,39.00354,1,-0.00052,mid block,centre,propagated
+1a2128ea-c336-420a-ae85-ffd480b01f0b,3930177,Hungary,12921,Barnabás Varga,Center Forward,87.10063,48.07268,1,0.0,mid block,centre,propagated
+d827945d-6aaa-467b-9175-bcc27f2df367,3930177,Hungary,31887,Endre Botka,Right Center Back,87.36162,44.05667,2,0.0002,mid block,centre,propagated
+ca4003ff-7aa7-4d5c-8af2-b94e93221b31,3930177,Hungary,31887,Endre Botka,Right Center Back,89.19704,46.04742,2,0.00018,mid block,centre,propagated
+0d6c99be-edaf-4936-9c58-df9ead767361,3930177,Hungary,21209,Dominik Szoboszlai,Right Attacking Midfield,72.60279,52.25119,1,0.0001,high,centre,propagated
+4d8a71ed-d2dd-4419-a873-e97d0a632950,3930177,Hungary,21209,Dominik Szoboszlai,Right Attacking Midfield,69.74083,58.93722,1,-0.00139,high,left (def view),propagated
+9986461c-8abf-4b16-b8e8-5908202bedce,3930177,Hungary,4286,Callum Styles,Left Defensive Midfield,95.96057,32.41169,1,0.00016,edge of box,centre,propagated
+7d8e191a-f09f-4bf2-88fc-a50d51f9bed9,3930177,Hungary,4286,Callum Styles,Left Defensive Midfield,99.02555,35.09102,1,-0.00026,edge of box,centre,direct
+aec58a0d-3dac-4988-b0a2-8de9d3b47400,3930177,Hungary,7162,Ádám Nagy,Right Defensive Midfield,59.96585,53.06749,1,0.0005,high,centre,direct
+eafed231-89f6-4e9a-9504-cac2187c754d,3930178,Italy,6963,Lorenzo Pellegrini,Left Wing,62.24382,28.37504,1,0.0,high,centre,propagated
+d3afba68-5f13-4383-bf2b-968a7278172e,3930178,Croatia,5456,Mateo Kovačić,Left Center Midfield,66.85231,63.01634,1,0.00013,high,left (def view),direct
+077c73b4-82dd-41d7-94bf-f91cbf0255be,3930178,Italy,6963,Lorenzo Pellegrini,Left Wing,84.02846,74.75311,1,-0.00094,mid block,left (def view),direct
+abe6f4e4-dcdb-4dbf-952f-9e1ff9f70ceb,3930178,Italy,6963,Lorenzo Pellegrini,Left Wing,75.41688,35.99413,1,0.00017,mid block,centre,propagated
+6ee6e3cf-6cdd-40ca-89ca-ef2eadb0cedc,3930178,Italy,6963,Lorenzo Pellegrini,Left Wing,102.62464,46.27149,2,0.00103,box,centre,propagated
+bfb951eb-a6c5-49ab-91d6-f180e6d3e76f,3930178,Italy,31093,Mateo Retegui,Center Forward,82.40838,39.64929,1,5e-05,mid block,centre,direct
+9c3bc9b9-2bca-4a06-a26d-c600027e1a93,3930178,Croatia,49337,Josip Stanišić,Right Back,102.38094,27.18994,1,-0.00156,box,centre,propagated
+95e33a1d-ee9a-4f04-8a76-61b0ad89f289,3930178,Croatia,5460,Andrej Kramarić,Left Wing,79.22003,34.0516,1,0.00085,mid block,centre,propagated
+a2feaa1a-88db-42c6-ab51-2d8f39d4ad50,3930179,Albania,41186,Jasir Asani,Right Wing,76.78786,21.87105,1,0.00023,mid block,right (def view),propagated
+e02af5b6-543f-4078-b283-efa8bb179d69,3930180,Netherlands,15503,Jerdy Schouten,Right Defensive Midfield,80.84568,66.68552,2,0.00319,mid block,left (def view),propagated
+4f6585d3-8d3f-4071-8b53-76bc712c9eda,3930180,Austria,33297,Patrick Wimmer,Left Defensive Midfield,90.74088,52.969,2,0.00259,edge of box,centre,propagated
+cb7bb2c0-3bdd-40b1-a762-b75cf4651d64,3930180,Austria,8068,Maximilian Wöber,Left Center Back,76.13656,58.86191,1,0.00048,mid block,left (def view),direct
+d66ed11b-ca8d-40cf-b031-17d87389df6a,3930180,Austria,39460,Nicolas Seiwald,Right Defensive Midfield,87.27098,16.82493,1,-0.00016,mid block,right (def view),propagated
+8559e165-f2da-4170-b8ae-3202e91a5daf,3930181,Slovenia,16528,Petar Stojanović,Right Midfield,79.90038,15.54323,1,5e-05,mid block,right (def view),propagated
+60af9ffc-8d8e-44dc-bd5f-089c9665b1b8,3930181,Slovenia,38759,Benjamin Šeško,Left Center Forward,54.85652,35.66627,1,-0.00013,high,centre,direct
+c394c67e-8586-43a4-bf41-330ed9147907,3930181,Slovenia,31866,Andraž Šporar,Right Center Forward,68.40162,46.57358,1,-0.00023,high,centre,propagated
+648355cc-f9ea-475a-a5d4-275a45a6bc21,3930181,Slovenia,31866,Andraž Šporar,Right Center Forward,73.20994,42.21174,1,-0.0005,high,centre,propagated
+0d50d1f4-11a4-4ecc-96f4-1e535d2fc6f3,3930181,Slovenia,31866,Andraž Šporar,Right Center Forward,75.3763,42.31798,1,7e-05,mid block,centre,propagated
+72a2184a-4376-4f8a-9d4a-35200e1b8546,3930181,Slovenia,31968,Adam Gnezda Čerin,Right Defensive Midfield,74.34745,13.69343,1,3e-05,high,right (def view),propagated
+7e3e2abf-9fb5-48fe-b1c8-2a52e7ee9c50,3930181,Slovenia,31866,Andraž Šporar,Right Center Forward,71.87064,24.11232,1,-0.00329,high,right (def view),propagated
+f6e86676-53e8-410b-b171-8cc847b05eb0,3930181,Slovenia,31866,Andraž Šporar,Right Center Forward,85.25656,54.28756,2,0.01237,mid block,left (def view),propagated
+d86a5e83-6c0c-42c6-ae60-2d725167c08f,3930181,Slovenia,31968,Adam Gnezda Čerin,Right Defensive Midfield,89.75872,16.8829,1,0.00025,mid block,right (def view),direct
+4cdf1594-e754-4c02-8934-9c7799df167f,3930181,Slovenia,31968,Adam Gnezda Čerin,Right Defensive Midfield,97.68198,24.90091,1,-1e-05,edge of box,right (def view),propagated
+00ed1f68-5da6-45d2-b2a8-0cb83a58102f,3930181,Slovenia,31968,Adam Gnezda Čerin,Right Defensive Midfield,99.39368,27.94376,2,0.00011,edge of box,centre,propagated
+5425336f-e051-4261-9367-9886e2840dae,3930181,Slovenia,31968,Adam Gnezda Čerin,Right Defensive Midfield,97.14144,24.69194,1,8e-05,edge of box,right (def view),propagated
+faef21a3-b33d-4204-afc7-b819177b20fc,3930181,Slovenia,31968,Adam Gnezda Čerin,Right Defensive Midfield,94.33439,23.76092,1,8e-05,edge of box,right (def view),propagated
+d6ed0e25-4a78-40b5-b4f8-4ed38ef3645f,3930181,Slovenia,31968,Adam Gnezda Čerin,Right Defensive Midfield,78.25841,14.51344,1,0.0001,mid block,right (def view),propagated
+c40fd045-cfb2-45e2-9072-5c8e2d25ed3e,3930181,England,3943,Declan Rice,Left Defensive Midfield,90.33569,36.47217,1,0.0019,edge of box,centre,propagated
+d57883c4-b2fe-43dd-af71-e71c8ec9836d,3930181,England,3943,Declan Rice,Left Defensive Midfield,94.92406,30.8072,1,-0.0,edge of box,centre,propagated
+67bc75f6-1aad-4d0d-bcfb-255b65375e23,3930181,England,3943,Declan Rice,Left Defensive Midfield,93.66576,33.32521,1,-9e-05,edge of box,centre,propagated
+ae06a6fb-1dd5-4178-aa31-5ad42521f51a,3930181,England,3943,Declan Rice,Left Defensive Midfield,89.34485,29.52856,1,0.00011,mid block,centre,propagated
+158661cb-6840-4ac2-8e2c-df5aa3575805,3930181,England,3943,Declan Rice,Left Defensive Midfield,88.17796,29.88855,1,0.00132,mid block,centre,propagated
+6b5720c6-2be6-446a-919f-ea30355685c5,3930181,England,3943,Declan Rice,Left Defensive Midfield,88.2149,35.97793,1,0.00073,mid block,centre,propagated
+1eeac318-3fb4-4111-9f6a-f20a88aba720,3930181,England,3943,Declan Rice,Left Defensive Midfield,86.97608,32.62107,1,9e-05,mid block,centre,propagated
+41742b81-d112-45a1-b204-113e59655497,3930181,England,3943,Declan Rice,Left Defensive Midfield,85.65024,32.81432,1,0.00073,mid block,centre,propagated
+cf110337-a961-4521-b8d7-8614d3d6c70a,3930182,Serbia,40735,Lazar Samardžić,Center Attacking Midfield,55.33286,33.65053,1,8e-05,high,centre,propagated
+f3577b2e-573a-4078-acd2-5fdab8d9b570,3930182,Serbia,6687,Saša Lukić,Center Defensive Midfield,61.77948,66.11454,1,0.00084,high,left (def view),direct
+a892fbc5-5d4a-4d9b-a886-623a08bc7b94,3930182,Serbia,16489,Nemanja Gudelj,Left Defensive Midfield,91.42753,24.58228,1,0.0031,edge of box,right (def view),direct
+3b1c798d-b538-42c5-9dae-4aacaa6f6436,3930182,Denmark,8621,Morten Hjulmand,Right Defensive Midfield,65.98041,12.08555,1,-0.00019,high,right (def view),propagated
+d3547619-f12d-4554-a110-eabf0a589404,3930182,Serbia,4269,Aleksandar Mitrović,Center Forward,108.26382,26.95415,3,0.00011,box,centre,direct
+d3547619-f12d-4554-a110-eabf0a589404,3930182,Serbia,4269,Aleksandar Mitrović,Center Forward,110.26198,27.69846,3,3e-05,box,centre,direct
+f1b7ee93-22a8-460e-9395-dd36cc049cbc,3930182,Denmark,3959,Andreas Christensen,Left Center Back,93.07197,54.08011,1,0.00038,edge of box,left (def view),propagated
+3cc39abf-5ce4-4cb2-b6b0-31b1667d3b50,3930182,Denmark,17042,Andreas Skov Olsen,Right Attacking Midfield,95.96833,18.92736,1,0.00055,edge of box,right (def view),direct
+999165f2-be74-4c74-9860-f684c46337c8,3930182,Serbia,6321,Milos Veljkovic,Right Center Back,92.37079,14.03152,1,-0.00079,edge of box,right (def view),propagated
+ad120949-4f73-4393-8b9f-3dab427f8fbf,3930183,Romania,28565,Ianis Hagi,Left Midfield,78.33586,23.73872,1,0.00031,mid block,right (def view),propagated
+477c25b4-622d-4c86-838b-6ba61a86ae82,3930183,Slovakia,16298,Denis Vavro,Right Center Back,101.2049,36.80852,1,-0.00041,edge of box,centre,propagated
+3aa124e0-1b1d-4b2a-b6c2-18e884d08989,3930183,Romania,10916,Nicolae Stanciu,Left Center Midfield,76.17858,47.21121,2,0.00035,mid block,centre,propagated
+2b5112eb-09e0-492d-88ae-7724f1c4f5a2,3930183,Slovakia,8967,Ondrej Duda,Left Center Midfield,71.84701,57.19043,1,-0.0004,high,left (def view),propagated
+70e94769-a728-4562-b7cf-bcc18cc0c7af,3930183,Romania,16344,Răzvan Marin,Right Center Midfield,98.98477,17.57593,2,-0.00023,edge of box,right (def view),direct
+8f18983a-331a-4db2-8459-0b92f9fb84ec,3930183,Slovakia,8967,Ondrej Duda,Left Center Midfield,93.14107,28.00541,1,-0.00084,edge of box,centre,direct
+2baba707-4e30-4494-a592-5178a81108bf,3930183,Slovakia,43976,David Strelec,Center Forward,94.50779,18.80688,2,0.00079,edge of box,right (def view),propagated
+6a734a33-1043-42a9-9e06-3e77f9a2944e,3930184,Turkey,78241,İsmail Yüksek,Left Defensive Midfield,104.76339,23.468,1,0.0055,box,right (def view),propagated
+337cf217-102e-4fce-aaa9-ba5d9022a069,3930184,Turkey,7039,Hakan Çalhanoğlu,Left Defensive Midfield,68.30674,47.48433,1,-2e-05,high,centre,direct
+bab658e9-adc9-48e7-b748-7e166a8d0d61,3930184,Czech Republic,4870,Tomáš Souček,Right Defensive Midfield,87.12354,53.0227,1,0.00188,mid block,centre,propagated
+21cdaa49-4653-42fb-ba28-ef47c339c1fd,3930184,Czech Republic,4870,Tomáš Souček,Right Defensive Midfield,89.31028,38.10789,1,-0.00048,mid block,centre,propagated
+7cd437a8-b772-49d6-88b5-907eed87f575,3930184,Czech Republic,32985,Mojmír Chytil,Center Forward,97.54392,41.19521,1,0.00022,edge of box,centre,propagated
+60558d73-2d30-4a15-b887-4268598fbc09,3930184,Czech Republic,4870,Tomáš Souček,Right Defensive Midfield,78.20439,32.18048,1,-0.00441,mid block,centre,propagated
+c8b33d3b-ea49-4716-a037-9e1b49aa953a,3930184,Czech Republic,81330,Robin Hranáč,Center Back,91.61614,28.456,2,0.00097,edge of box,centre,direct
+0bc63a20-f355-493f-bcdf-a098341e2018,3930184,Czech Republic,81330,Robin Hranáč,Center Back,93.14001,31.15275,1,0.00125,edge of box,centre,direct
+94d08f2b-a572-4150-ae2f-a049d9623707,3930184,Czech Republic,32985,Mojmír Chytil,Center Forward,92.64105,47.11026,1,0.00037,edge of box,centre,propagated
+94d08f2b-a572-4150-ae2f-a049d9623707,3930184,Czech Republic,28272,Ladislav Krejčí,Left Center Back,103.37377,45.34629,1,-0.00067,box,centre,propagated
+f397831f-9c0e-4b91-b1e7-4ee08f014cfc,3930184,Czech Republic,32985,Mojmír Chytil,Center Forward,90.99659,47.52857,2,0.00049,edge of box,centre,direct
+5e79e20b-71aa-492e-9aca-b3a593e70c79,3930184,Czech Republic,32985,Mojmír Chytil,Center Forward,91.09205,49.70641,1,0.00127,edge of box,centre,direct
+3a74e3c1-e134-483c-b259-9163a48f29d9,3938637,Poland,8289,Bartosz Salamon,Center Back,110.83294,36.90007,1,0.00251,box,centre,direct
+88e06ed0-97a1-45dd-88fc-45a083622bb7,3938637,Netherlands,39167,Xavi Simons,Center Attacking Midfield,81.5082,1.6328,1,0.00222,mid block,right (def view),direct
+1c295880-1c93-426a-ba61-017b9a007523,3938637,Poland,33680,Kacper Urbanski,Right Center Forward,68.91134,56.33212,1,-0.00045,high,left (def view),propagated
+11ce62a3-1d11-4127-a5ae-ac0f03a031de,3938637,Poland,7982,Taras Wiktorowicz Romanczuk,Center Defensive Midfield,84.3849,64.00546,1,7e-05,mid block,left (def view),propagated
+16c03162-3ce6-4502-8d57-114478605db9,3938637,Poland,7982,Taras Wiktorowicz Romanczuk,Center Defensive Midfield,85.64482,62.33929,1,0.00077,mid block,left (def view),propagated
+fb704335-c10f-4266-8ecf-e20987de4394,3938637,Netherlands,8125,Denzel Dumfries,Right Back,94.65227,16.6891,2,0.00104,edge of box,right (def view),propagated
+9124c233-4d30-497f-94c9-50fd1cfa494b,3938637,Netherlands,8125,Denzel Dumfries,Right Back,98.63078,18.57649,2,0.00337,edge of box,right (def view),direct
+3ac89c77-c1d1-47a8-b5d1-7deabf78032d,3938637,Netherlands,2988,Memphis Depay,Center Forward,62.5111,45.79064,1,-0.00045,high,centre,propagated
+9216c3be-f499-49cb-bc02-26823017e8de,3938637,Poland,7982,Taras Wiktorowicz Romanczuk,Center Defensive Midfield,66.36047,64.79495,1,-0.00063,high,left (def view),propagated
+f3a8cc36-070e-495a-a1f7-cc875a27d591,3938637,Poland,4664,Sebastian Szymański,Right Center Midfield,64.38909,51.7203,1,-0.0007,high,centre,propagated
+855343e8-0fc3-4266-acdb-94a30e53c3cd,3938637,Poland,5660,Piotr Zieliński,Left Center Midfield,93.91497,43.44615,1,-0.00265,edge of box,centre,propagated
+a14e9e02-d962-47e3-b854-1a3233146fd5,3938637,Poland,33680,Kacper Urbanski,Right Center Forward,85.45201,37.54448,1,9e-05,mid block,centre,propagated
+33840bd5-d3cf-4887-aa4d-000b692501e0,3938637,Poland,33680,Kacper Urbanski,Right Center Forward,77.85185,37.71188,1,0.00015,mid block,centre,propagated
+9f13b58e-d54e-4c51-98a4-786d88671bab,3938637,Poland,33680,Kacper Urbanski,Right Center Forward,81.10495,36.06655,1,0.0002,mid block,centre,propagated
+ea263daa-42a3-46a5-b281-389cb5eb6845,3938637,Poland,8289,Bartosz Salamon,Center Back,105.31836,37.54598,1,-0.0,box,centre,propagated
+6da0c394-107a-4fd6-b027-f86a913803db,3938637,Poland,7982,Taras Wiktorowicz Romanczuk,Center Defensive Midfield,96.86866,37.49391,1,-0.00054,edge of box,centre,direct
+2691a911-1a22-4b04-94fc-e154b0a4b895,3938637,Poland,7663,Adam Buksa,Left Center Forward,83.2061,36.78901,1,-0.00383,mid block,centre,direct
+7ac3ca4c-a652-4f10-b456-df2efc794fba,3938637,Poland,29480,Jakub Moder,Left Center Midfield,68.12262,50.57235,1,0.00019,high,centre,direct
+8037b1d3-6f0c-46fb-98ed-dc75b10f25e1,3938637,Poland,29480,Jakub Moder,Left Center Midfield,97.41461,50.87936,2,0.00248,edge of box,centre,direct
+cba20c60-707d-4d52-b4b6-3ea82f715900,3938637,Poland,33680,Kacper Urbanski,Right Center Forward,73.09883,66.62049,1,0.00014,high,left (def view),direct
+ca6ff3f3-72a4-4f21-88f0-5f79b45b696c,3938637,Poland,15859,Bartosz Slisz,Center Defensive Midfield,80.77372,19.98488,1,0.00075,mid block,right (def view),propagated
+abbac471-e73c-4b4b-8384-54233a0fb4a9,3938637,Netherlands,15503,Jerdy Schouten,Right Defensive Midfield,90.14708,15.12073,1,0.00067,edge of box,right (def view),propagated
+1bea58cc-8aaa-4d0a-8596-2724cb1a8ec8,3938637,Poland,50502,Nicola Zalewski,Left Wing Back,96.85764,52.89975,1,0.00275,edge of box,centre,direct
+6e5d7b99-1737-476e-8d48-0a95de344021,3938637,Netherlands,15503,Jerdy Schouten,Right Defensive Midfield,78.05638,28.17987,1,0.0024,mid block,centre,direct
+304c832d-691b-4a29-a4e9-0157b3424694,3938638,Romania,30913,Marius Marin,Center Defensive Midfield,99.64124,28.29354,1,-0.00024,edge of box,centre,direct
+304c832d-691b-4a29-a4e9-0157b3424694,3938638,Romania,30913,Marius Marin,Center Defensive Midfield,102.84077,36.63079,1,-0.00025,box,centre,direct
+49d603d2-6c60-44ab-8d21-2a74362d92f3,3938638,Romania,30913,Marius Marin,Center Defensive Midfield,96.68286,32.1284,1,0.00019,edge of box,centre,propagated
+91d60470-4b02-41a7-92b2-3d72e8c72a63,3938638,Romania,30913,Marius Marin,Center Defensive Midfield,76.2308,53.03966,1,0.00103,mid block,centre,direct
+236c470e-1641-464b-9c9f-0175b04a81dc,3938638,Romania,30913,Marius Marin,Center Defensive Midfield,77.66833,52.24044,1,-4e-05,mid block,centre,direct
+93c6dd48-af36-466b-b1ff-f6b30639d904,3938638,Romania,31193,Denis Dragus,Center Forward,65.71476,29.74193,2,1e-05,high,centre,direct
+a41ccf76-72af-42d6-b005-86484f0ede35,3938638,Romania,31193,Denis Dragus,Center Forward,72.25237,38.02196,1,0.00029,high,centre,propagated
+b10ac1f6-fe0a-4596-af84-6ca73f871e2d,3938638,Ukraine,38975,Georgiy Sudakov,Center Attacking Midfield,57.94109,38.91217,1,7e-05,high,centre,direct
+84a2606c-57fb-423f-bfc6-4ff77cf126a1,3938639,Georgia,41202,Giorgi Kochorashvili,Left Center Midfield,93.63368,24.15251,1,0.00087,edge of box,right (def view),propagated
+3e488eed-c084-4b65-a7d6-8c08ebd05f08,3938639,Georgia,41202,Giorgi Kochorashvili,Left Center Midfield,100.29449,19.77564,2,0.0031,edge of box,right (def view),propagated
+f634a164-1ef2-45f7-9fdf-a4a83026d2b7,3938639,Georgia,264017,Anzor Mekvabishvili,Right Defensive Midfield,83.02795,31.21465,1,0.00395,mid block,centre,propagated
+efc3b07f-9d56-405a-9a54-b126381bef3b,3938639,Georgia,7655,Lasha Dvali,Left Center Back,88.49819,51.6544,1,0.00056,mid block,centre,propagated
+858b6795-4799-43cb-9b2e-ff4581ad7bf4,3938639,Georgia,41202,Giorgi Kochorashvili,Left Center Midfield,88.53507,62.18292,1,0.00232,mid block,left (def view),propagated
+9a2b198b-eb3b-45a4-b6f6-ce3a76b610c9,3938639,Georgia,33234,Georges Mikautadze,Right Center Forward,64.99885,37.31951,1,-5e-05,high,centre,direct
+37fd2179-f99a-43d8-b5a8-59f0658fdadf,3938639,Georgia,41202,Giorgi Kochorashvili,Left Center Midfield,91.68015,33.94508,1,0.0016,edge of box,centre,propagated
+178e5961-e804-4218-8182-7fcf9f206400,3938639,Georgia,41202,Giorgi Kochorashvili,Left Center Midfield,105.89697,47.10143,1,0.0356,box,centre,direct
+569b7203-2d9f-4dce-bbfb-bccbfde2f069,3938639,Turkey,49689,Kerem Aktürkoglu,Left Wing,79.84169,61.0193,1,6e-05,mid block,left (def view),propagated
+be676130-3130-489f-bcce-755f42de3fc6,3938640,Ukraine,39483,Mykhailo Mudryk,Left Midfield,98.00392,76.13327,1,0.00043,edge of box,left (def view),propagated
+d8bdacd2-8a69-47ba-bda1-8f6c33c58796,3938640,Ukraine,21294,Mykola Shaparenko,Right Defensive Midfield,74.24997,37.5849,1,0.00044,high,centre,direct
+bf3c4a32-85fd-4007-8618-e448e8d27bd8,3938640,Ukraine,38975,Georgiy Sudakov,Center Attacking Midfield,64.74599,23.62435,1,-0.00453,high,right (def view),direct
+8f2a256d-b1d0-4eb3-ba3c-facd3017a71a,3938640,Slovakia,6798,Stanislav Lobotka,Center Defensive Midfield,97.67508,57.01616,1,-6e-05,edge of box,left (def view),direct
+ef5cfada-fa07-4762-b2dc-87912c7200f0,3938640,Slovakia,7975,Lukáš Haraslín,Left Wing,110.30642,62.41307,1,-0.00207,box,left (def view),propagated
+6974f5b2-c8c0-454b-b273-cefba6340e80,3938640,Slovakia,28032,Ivan Schranz,Right Wing,70.75896,6.37625,1,0.00036,high,right (def view),direct
+68e8c1ab-4b55-409e-a465-cbe3854efbb5,3938640,Ukraine,38975,Georgiy Sudakov,Center Attacking Midfield,109.35842,46.01568,1,-0.0003,box,centre,direct
+912445cd-a804-46e3-be81-b8431dc6cdd5,3938641,Poland,5660,Piotr Zieliński,Left Center Midfield,81.02002,26.24008,1,-0.00045,mid block,right (def view),direct
+5896fb2a-3ab9-4f9e-a099-77c54100b58d,3938641,Poland,7663,Adam Buksa,Left Center Forward,92.40142,26.30366,1,0.00013,edge of box,right (def view),propagated
+6ee21de4-6da1-4ee4-ba9d-595b8b1c9aa4,3938641,Austria,8506,Konrad Laimer,Left Defensive Midfield,93.74046,47.71943,1,2e-05,edge of box,centre,direct
+6ee21de4-6da1-4ee4-ba9d-595b8b1c9aa4,3938641,Austria,8506,Konrad Laimer,Left Defensive Midfield,94.3925,48.32389,2,4e-05,edge of box,centre,direct
+efb1868f-e480-4b28-89b9-7b4eb85e4a6d,3938641,Poland,12493,Krzysztof Piątek,Right Center Forward,56.33465,31.29258,2,-0.00118,high,centre,propagated
+53aa1e56-87e8-4ee3-b4d0-35eb2650cce9,3938641,Poland,5660,Piotr Zieliński,Left Center Midfield,95.79042,19.24997,2,0.00011,edge of box,right (def view),propagated
+9b08c10b-7217-46bb-820b-9d26722b6d04,3938641,Poland,5660,Piotr Zieliński,Left Center Midfield,100.60623,21.39445,1,8e-05,edge of box,right (def view),propagated
+9b08c10b-7217-46bb-820b-9d26722b6d04,3938641,Poland,4626,Jan Bednarek,Right Center Back,107.37967,40.71246,1,-0.00055,box,centre,propagated
+a8a7178c-fe22-4197-9d28-4738e8bf58c4,3938641,Austria,39460,Nicolas Seiwald,Right Defensive Midfield,89.35489,15.11237,1,0.00282,mid block,right (def view),direct
+82537bb5-366f-421e-aea3-9ca4cbc92210,3938641,Austria,3325,Marko Arnautović,Center Forward,80.00144,10.02139,1,-0.00035,mid block,right (def view),propagated
+46f92d77-c366-404a-9cc9-6d0175e36ea5,3938641,Poland,30739,Paweł Dawidowicz,Center Back,93.02318,46.53586,1,0.00084,edge of box,centre,propagated
+5560f95e-4f95-4695-8ff6-c54107330c8e,3938641,Poland,30739,Paweł Dawidowicz,Center Back,94.55986,50.11984,1,0.00049,edge of box,centre,propagated
+99df9cdf-e6d5-43e3-9943-5c01fcc442a4,3938641,Poland,30739,Paweł Dawidowicz,Center Back,88.79752,47.27266,1,0.0005,mid block,centre,propagated
+dbcb62fe-740c-4b7d-8740-13e360df9560,3938641,Austria,33297,Patrick Wimmer,Left Defensive Midfield,85.30179,10.36546,1,0.00026,mid block,right (def view),direct
+16ce17f9-2d10-4304-8a02-83399298d4b3,3938641,Austria,33297,Patrick Wimmer,Left Defensive Midfield,76.73612,36.65267,1,-0.00025,mid block,centre,propagated
+4a2087c8-df07-4cdc-8cd7-3aa641358da8,3938642,Czech Republic,4870,Tomáš Souček,Right Defensive Midfield,71.35879,58.36096,1,0.00023,high,left (def view),propagated
+93ad1b44-17df-4db4-9497-ff2b3b0302da,3938642,Czech Republic,4870,Tomáš Souček,Right Defensive Midfield,69.57896,56.10463,1,0.00016,high,left (def view),propagated
+93ad1b44-17df-4db4-9497-ff2b3b0302da,3938642,Czech Republic,4870,Tomáš Souček,Right Defensive Midfield,74.85348,67.6626,1,0.00043,high,left (def view),direct
+71be5666-1a04-457d-94c3-845c1605dec0,3938642,Czech Republic,134272,David Jurásek,Left Wing Back,96.95844,72.31032,1,-0.00028,edge of box,left (def view),propagated
+26be5932-031b-464b-8733-033b84b6bc8e,3938642,Georgia,33234,Georges Mikautadze,Right Center Forward,76.22462,53.98247,1,0.00049,mid block,left (def view),propagated
+cb494014-0895-4dd6-b9f7-aca2f0cf33f2,3938642,Georgia,16005,Saba Kverkvelia,Right Center Back,99.86325,23.65029,2,-0.00015,edge of box,right (def view),propagated
+ec2c47ab-1f0e-4af7-b8b4-0a5be2144793,3938642,Georgia,41202,Giorgi Kochorashvili,Left Center Midfield,94.18553,46.05489,1,0.00073,edge of box,centre,propagated
+7b1d02c6-8120-4886-80c8-f262c64f68e0,3938642,Georgia,41202,Giorgi Kochorashvili,Left Center Midfield,86.46847,51.53187,1,3e-05,mid block,centre,propagated
+5c8a7951-fd99-4e1f-994b-813f308cd616,3938643,Poland,29480,Jakub Moder,Left Center Midfield,99.27803,21.17817,1,0.00031,edge of box,right (def view),propagated
+5651fb52-905a-4f00-a7c2-112d163908ec,3938643,Poland,33680,Kacper Urbanski,Right Center Forward,54.55035,27.41028,1,-0.00023,high,centre,propagated
+7b86270f-6aa5-4ddd-88e2-b37f4ac8ae6f,3938643,Poland,4664,Sebastian Szymański,Right Center Midfield,82.91426,67.42106,1,0.00042,mid block,left (def view),propagated
+76a4a1fc-dd6a-4a3f-b700-342e7dfd0d42,3938643,Poland,29480,Jakub Moder,Left Center Midfield,95.68906,45.56608,1,0.00036,edge of box,centre,propagated
+9168007d-5c4b-43e7-ab76-e970f26a5f7c,3938643,Poland,29480,Jakub Moder,Left Center Midfield,103.98596,46.127,1,0.03584,box,centre,direct
+a564a18b-ffbc-4f94-8aa2-b780132d519a,3938643,Poland,5660,Piotr Zieliński,Left Center Midfield,91.8482,36.503,1,-0.00029,edge of box,centre,propagated
+346d8e05-0883-49ad-9f2a-0b5c7643967b,3938643,Poland,30739,Paweł Dawidowicz,Center Back,108.46923,38.37932,1,-0.00085,box,centre,propagated
+c9941424-1c0a-4d21-b7ed-8450ab836d48,3938643,Poland,30739,Paweł Dawidowicz,Center Back,103.36855,32.485,1,0.00281,box,centre,propagated
+d83f0168-b06f-4389-8d46-c40dc5ef61b5,3938643,France,3961,N'Golo Kanté,Right Center Midfield,70.85561,35.8837,1,0.00184,high,centre,propagated
+d83f0168-b06f-4389-8d46-c40dc5ef61b5,3938643,France,17592,William Saliba,Left Center Back,82.70801,38.81551,1,-5e-05,mid block,centre,direct
+b784c6e0-3502-4168-ba4c-5642067700c7,3938643,Poland,44166,Jakub Piotr Kiwior,Left Center Back,88.15612,53.82346,3,0.00028,mid block,left (def view),propagated
+84fc9683-872e-4fe1-86d0-dc53289e5990,3938643,Poland,50502,Nicola Zalewski,Left Wing Back,111.72006,48.66836,1,0.00039,box,centre,direct
+ea85d578-506c-4a76-b8ec-ef260c2c9e92,3938643,Poland,5660,Piotr Zieliński,Left Center Midfield,54.25186,10.41563,1,-0.0,high,right (def view),propagated
+5b76e7c4-56af-43f8-a072-fd3d6cd3708c,3938643,Poland,29480,Jakub Moder,Left Center Midfield,87.71254,26.8287,1,0.00038,mid block,centre,propagated
+b92321bc-1fe1-4e11-b800-dac54d053f51,3938643,Poland,29480,Jakub Moder,Left Center Midfield,90.06153,29.7853,1,-2e-05,edge of box,centre,propagated
+f5ee4931-9936-4519-80a0-f8cc740ecc81,3938643,Poland,29480,Jakub Moder,Left Center Midfield,89.74023,25.87779,1,0.00035,mid block,right (def view),propagated
+2f0c1bd7-53c0-42c8-b9a0-8c363be3c924,3938643,Poland,29480,Jakub Moder,Left Center Midfield,93.5113,25.49788,1,0.00054,edge of box,right (def view),propagated
+cc71aa23-e51d-49c2-919c-15102df343b0,3938643,Poland,28453,Michał Skóraś,Left Wing Back,102.03861,20.15852,1,-0.0028,box,right (def view),direct
+edc411e6-68a8-4424-997e-6267fa7857c7,3938643,Poland,8836,Karol Świderski,Right Center Forward,56.98235,19.41213,1,-0.0005,high,right (def view),propagated
+8b08b786-5119-41e3-965f-669d46fed0d2,3938644,Georgia,11335,Otar Kiteishvili,Center Defensive Midfield,71.89315,20.11875,1,5e-05,high,right (def view),propagated
+88bd3c69-84e3-43a1-abf0-5b8a9cbcea59,3938644,Georgia,11335,Otar Kiteishvili,Center Defensive Midfield,84.93999,17.22879,1,0.00484,mid block,right (def view),propagated
+8c89b4b2-7973-4932-b360-657bfc44c31f,3938644,Georgia,41202,Giorgi Kochorashvili,Left Center Midfield,80.45605,61.92007,1,0.0007,mid block,left (def view),propagated
+72e04fd7-668d-49d0-975e-9f03ec351adc,3938644,Georgia,41202,Giorgi Kochorashvili,Left Center Midfield,90.04576,62.51579,1,-0.0,edge of box,left (def view),propagated
+ad318897-93a6-4677-bb59-e1d638fec883,3938644,Georgia,11335,Otar Kiteishvili,Center Defensive Midfield,85.37534,26.63055,1,0.00011,mid block,right (def view),propagated
+ef641a3f-054e-4572-9e88-eb8f426a8ad8,3938644,Georgia,11335,Otar Kiteishvili,Center Defensive Midfield,92.41188,25.11098,1,0.00038,edge of box,right (def view),propagated
+f839b916-10e0-4c23-adcd-e53373fe6b68,3938644,Georgia,11335,Otar Kiteishvili,Center Defensive Midfield,86.78344,24.18874,2,0.0002,mid block,right (def view),direct
+4a14c065-f96b-4446-b2e1-7422172c6677,3938644,Georgia,11335,Otar Kiteishvili,Center Defensive Midfield,82.85912,22.19117,1,0.00124,mid block,right (def view),direct
+cfe6eece-82a8-4573-8d16-bfde65d0aab0,3938644,Georgia,38229,Kvara,Left Center Forward,80.18248,69.72124,1,-0.00039,mid block,left (def view),direct
+8e07bb44-ef83-4201-813d-7ddaebaa364d,3938644,Georgia,11335,Otar Kiteishvili,Center Defensive Midfield,72.0456,21.96806,1,0.00016,high,right (def view),direct
+4e88944a-3aaf-47f7-8130-2f99af6b1285,3938644,Georgia,41202,Giorgi Kochorashvili,Left Center Midfield,91.43886,61.33878,2,0.00336,edge of box,left (def view),propagated
+c671b0d9-b1a7-41a8-b83f-d07b99f1da99,3938644,Georgia,41202,Giorgi Kochorashvili,Left Center Midfield,91.46038,59.97292,1,0.00271,edge of box,left (def view),direct
+1d6cb873-a7ce-469d-afd5-b57ab7a75790,3938644,Georgia,11335,Otar Kiteishvili,Center Defensive Midfield,101.18664,52.90762,4,0.00048,edge of box,centre,propagated
+e8f3419a-51dd-477f-b5be-78fef9f3803d,3938644,Georgia,11335,Otar Kiteishvili,Center Defensive Midfield,99.97306,53.46542,1,0.0017,edge of box,left (def view),propagated
+77d120f4-ff5c-4767-8270-572e4b612695,3938644,Georgia,23646,Giorgi Chakvetadze,Right Center Midfield,91.6783,25.81056,1,-0.00561,edge of box,right (def view),propagated
+3aca7816-ab7d-43d7-a75f-c8593c5b8ebd,3938645,Ukraine,38975,Georgiy Sudakov,Center Attacking Midfield,90.7939,49.24392,1,0.00496,edge of box,centre,propagated
+8af1f524-9b4c-45a8-8b64-cb34dab28ce2,3938645,Ukraine,21294,Mykola Shaparenko,Right Defensive Midfield,68.77103,17.21395,1,-0.0015,high,right (def view),propagated
+14b1c9d6-8ffd-4b17-b15a-a2eb55031b4b,3938645,Belgium,8854,Wout Faes,Right Center Back,101.77626,54.29214,1,-0.00116,edge of box,left (def view),direct
+1a487676-89e5-4e13-8c8c-f7e83888d8a3,3938645,Ukraine,23649,Roman Yaremchuk,Left Center Forward,94.80044,27.58294,1,-5e-05,edge of box,centre,direct
+1a487676-89e5-4e13-8c8c-f7e83888d8a3,3938645,Ukraine,45863,Oleksandr Tymchyk,Right Back,101.24788,29.76794,1,-0.0001,edge of box,centre,propagated
+261e58d4-0843-451f-ae1a-df2894b5560a,3938645,Ukraine,45863,Oleksandr Tymchyk,Right Back,99.1753,28.69053,1,0.00085,edge of box,centre,propagated
+af27b908-2a91-413e-93a5-8791de2b5c74,3938645,Ukraine,21294,Mykola Shaparenko,Right Defensive Midfield,98.08422,27.02018,1,-0.00037,edge of box,centre,propagated
+d565728c-9041-43e4-beac-1f7916c75000,3938645,Ukraine,21294,Mykola Shaparenko,Right Defensive Midfield,96.98568,31.04642,1,-8e-05,edge of box,centre,direct
+3a4d83e4-b0f8-42a9-a675-6e523be8b5a4,3938645,Ukraine,3575,Oleksandr Zinchenko,Left Back,98.15655,68.10913,1,0.00451,edge of box,left (def view),propagated
+ebcc5947-e14b-436e-9377-375e3abb1adf,3938645,Ukraine,30059,Oleksandr Svatok,Center Back,105.54765,40.33109,1,0.00093,box,centre,direct
+d4140ccb-aa85-4dec-ab05-036ccf8c8ef8,3938645,Belgium,8950,Orel Mangala,Left Defensive Midfield,62.47901,31.85343,1,3e-05,high,centre,direct
+f53d844c-e8fe-429d-a9c9-bf81e255cb54,3940878,Italy,7480,Alessandro Bastoni,Right Center Back,97.25908,58.11825,1,0.00194,edge of box,left (def view),propagated
+449de07a-b87c-44b8-9be2-ac65408ebcb2,3940878,Italy,7156,Federico Chiesa,Right Wing,85.06627,14.54093,1,-0.0014,mid block,right (def view),propagated
+94617238-2a82-4d21-9234-d563d97ce391,3940878,Italy,7156,Federico Chiesa,Right Wing,88.69259,20.06903,1,-0.00029,mid block,right (def view),propagated
+b5cda022-7ef3-484a-860f-decdba6395e3,3940878,Switzerland,50436,Fabian Rieder,Right Attacking Midfield,63.66607,27.49962,1,-0.00011,high,centre,direct
+b7913433-53f2-4e80-ac91-fa428f063168,3940878,Italy,8181,Nicolò Barella,Left Center Midfield,90.24909,31.76013,1,0.00014,edge of box,centre,propagated
+f6414753-2e1c-4702-acaa-d28e4a2b66e0,3940878,Switzerland,3500,Granit Xhaka,Left Defensive Midfield,71.60943,55.42797,2,0.00044,high,left (def view),propagated
+fc8f17e5-8036-4c2d-866a-3addf8ff0152,3940878,Italy,7156,Federico Chiesa,Right Wing,94.06133,36.23196,1,-0.00028,edge of box,centre,propagated
+d70c44ab-41bc-402e-95ef-e9072513126a,3940878,Italy,7156,Federico Chiesa,Right Wing,95.10505,40.25978,1,-0.0006,edge of box,centre,propagated
+df548c69-a19f-4db3-b18a-ad227b743b44,3940878,Italy,7156,Federico Chiesa,Right Wing,94.11233,38.87159,1,0.00014,edge of box,centre,propagated
+e6cdd8fe-bd25-4927-94b3-32b98c52dd4b,3940878,Italy,8792,Mattia Zaccagni,Left Wing,96.82397,37.48493,1,-0.00075,edge of box,centre,direct
+127c0df8-fa08-414a-8e3b-d6f5708e7c0d,3940878,Italy,38909,Nicolò Fagioli,Center Defensive Midfield,104.83328,53.29626,1,0.00129,box,centre,propagated
+85dabcbe-7f7f-4b52-b6cb-f53fafc97330,3940878,Switzerland,5544,Ricardo Rodríguez,Left Center Back,110.05396,55.09373,1,-0.0006,box,left (def view),propagated
+78683cc4-6a5b-49c5-9150-885159749322,3940878,Italy,38909,Nicolò Fagioli,Center Defensive Midfield,95.29047,15.85657,1,0.00199,edge of box,right (def view),propagated
+833c4627-b839-4291-a43a-a2e11633e40c,3940878,Italy,38909,Nicolò Fagioli,Center Defensive Midfield,89.76382,10.99725,1,0.00025,mid block,right (def view),propagated
+62337df3-813a-46bb-b611-9d82bd33f8d0,3940878,Italy,38909,Nicolò Fagioli,Center Defensive Midfield,83.1436,11.50865,1,0.00018,mid block,right (def view),direct
+62337df3-813a-46bb-b611-9d82bd33f8d0,3940878,Italy,38909,Nicolò Fagioli,Center Defensive Midfield,87.38159,2.97878,1,0.00049,mid block,right (def view),propagated
+3c3f208d-d54a-45a6-acb6-d9a6eec7bf82,3940983,Denmark,8815,Jannik Vestergaard,Center Back,91.73444,38.08943,1,0.00718,edge of box,centre,propagated
+a28657c7-df36-463c-9dd1-acf983010663,3940983,Denmark,5527,Thomas Delaney,Left Defensive Midfield,78.51043,55.439,1,-0.00095,mid block,left (def view),direct
+4fe39424-ef64-49c4-bf07-e9413f9ab05b,3940983,Germany,3053,Leroy Sané,Right Wing,77.98096,20.26651,3,0.00067,mid block,right (def view),propagated
+61ce8fd5-8278-42c6-8596-bd25dad59513,3940983,Denmark,3043,Christian Eriksen,Left Wing,80.40493,56.45033,1,0.00059,mid block,left (def view),direct
+afec5be7-4ff6-4b6a-8de8-cfd0bc07aec4,3941017,Slovakia,6798,Stanislav Lobotka,Center Defensive Midfield,64.31172,33.65972,1,5e-05,high,centre,propagated
+afec5be7-4ff6-4b6a-8de8-cfd0bc07aec4,3941017,Slovakia,10919,Juraj Kucka,Right Center Midfield,65.38212,20.14553,2,0.00049,high,right (def view),propagated
+d342b166-2c74-493b-afc0-72e642b869ec,3941017,Slovakia,10919,Juraj Kucka,Right Center Midfield,83.50427,27.25082,2,0.00024,mid block,centre,propagated
+d2c5c00a-6fdc-4ca5-a220-2ba66bfeffab,3941017,Slovakia,10919,Juraj Kucka,Right Center Midfield,83.90954,36.1132,1,0.00022,mid block,centre,propagated
+163300d5-d032-479d-b5b0-2aa514e83785,3941017,Slovakia,7975,Lukáš Haraslín,Left Wing,84.89398,53.24233,1,0.00039,mid block,centre,propagated
+585127b4-32ba-49b4-8b0d-82117d8efccd,3941017,Slovakia,6798,Stanislav Lobotka,Center Defensive Midfield,86.97762,65.17196,1,0.00151,mid block,left (def view),propagated
+1644f349-8b2c-40ad-a3b7-40df8d7d66bc,3941017,Slovakia,34904,Róbert Boženík,Center Forward,85.95241,36.72713,1,0.00036,mid block,centre,direct
+f3829b63-b50c-4f47-bd4c-4a4ea7abdf64,3941017,Slovakia,34904,Róbert Boženík,Center Forward,81.88474,38.26831,1,1e-05,mid block,centre,propagated
+bea8d154-5099-4b83-a016-73518e8092cc,3941017,Slovakia,10919,Juraj Kucka,Right Center Midfield,74.84628,23.66603,1,0.00078,high,right (def view),propagated
+0f10d81f-d4ff-4e21-b610-606ab08dfcd2,3941017,Slovakia,10919,Juraj Kucka,Right Center Midfield,94.23126,29.69361,1,0.00637,edge of box,centre,direct
+99d5072e-2045-41c7-903d-73e993bb8914,3941017,Slovakia,15546,Matúš Bero,Left Center Midfield,68.81915,45.1525,1,8e-05,high,centre,direct
+a21d313b-c778-45be-9a76-2a32e2adc5df,3941017,Slovakia,34904,Róbert Boženík,Center Forward,77.88469,50.47499,1,-0.00157,mid block,centre,propagated
+b064f1c5-b26e-4583-9804-62b565b0a1a2,3941017,England,3943,Declan Rice,Left Defensive Midfield,98.22135,43.682,1,0.00018,edge of box,centre,propagated
+eb78e5a4-edd7-4904-a358-b7e5f42b3176,3941018,Georgia,33234,Georges Mikautadze,Right Center Forward,68.29789,41.18736,1,-8e-05,high,centre,propagated
+ffa1b906-a904-43df-aea0-ec9bd994d948,3941018,Georgia,33234,Georges Mikautadze,Right Center Forward,75.31727,22.84501,1,-0.00091,mid block,right (def view),direct
+1d4fb518-2ab7-4637-9a0c-18fedfadabc0,3941018,Georgia,33234,Georges Mikautadze,Right Center Forward,77.60059,19.3589,1,0.00141,mid block,right (def view),propagated
+b0bffeb5-3bf7-4d05-898f-5f85021ddf30,3941018,Georgia,33234,Georges Mikautadze,Right Center Forward,90.73945,44.14123,1,-0.0012,edge of box,centre,propagated
+c4394df7-b7b0-410d-8f56-8e6e72d9f021,3941018,Georgia,11335,Otar Kiteishvili,Center Defensive Midfield,92.44293,29.78411,1,0.00153,edge of box,centre,direct
+3324f2f6-e8f9-49ff-b07b-78611c20a0b6,3941018,Georgia,11335,Otar Kiteishvili,Center Defensive Midfield,77.35793,62.44114,1,0.00059,mid block,left (def view),propagated
+09f3902f-0578-45ec-b887-2d3d9b5d2050,3941018,Georgia,7655,Lasha Dvali,Left Center Back,103.79088,44.32219,2,0.00046,box,centre,direct
+046545a7-7fa9-490b-ba86-badc0bb47ef3,3941018,Georgia,33234,Georges Mikautadze,Right Center Forward,76.74306,24.38669,1,0.00038,mid block,right (def view),propagated
+e89a6504-1632-4843-802e-11260d3369f7,3941018,Georgia,11335,Otar Kiteishvili,Center Defensive Midfield,89.46061,33.50739,1,0.00069,mid block,centre,propagated
+0b6272ff-1004-47f6-b5d6-9bae91fb4e51,3941018,Georgia,11335,Otar Kiteishvili,Center Defensive Midfield,95.44753,24.07267,1,0.00034,edge of box,right (def view),propagated
+121660ed-c0f0-4a7a-aac7-1dffceef734e,3941018,Georgia,11335,Otar Kiteishvili,Center Defensive Midfield,72.8934,38.20725,1,0.00049,high,centre,propagated
+a8fce03b-f6dd-49f6-8972-8667d7f6df53,3941018,Georgia,38229,Kvara,Left Center Forward,99.61593,47.47811,1,0.00557,edge of box,centre,propagated
+93949403-b13a-43d1-8bfd-6dd62a380a69,3941018,Georgia,11335,Otar Kiteishvili,Center Defensive Midfield,101.56281,50.11081,1,0.00069,edge of box,centre,direct
+df244221-6211-4f2c-907b-a01da0af6216,3941018,Georgia,48178,Luka Lochoshvili,Left Wing Back,53.8112,55.33437,1,-3e-05,high,left (def view),propagated
+1a2d4ba4-c24f-4607-be87-2c4713792bae,3941018,Georgia,41202,Giorgi Kochorashvili,Left Center Midfield,102.06793,49.84338,1,0.00918,box,centre,propagated
+54754444-e564-415a-a91e-6ed55733f958,3941018,Georgia,38229,Kvara,Left Center Forward,86.31778,47.22814,1,-0.0033,mid block,centre,propagated
+843bb7c5-af32-4aee-a611-290075872a4d,3941018,Georgia,38229,Kvara,Left Center Forward,87.79874,47.95696,1,-0.0008,mid block,centre,propagated
+a52f2ef1-931f-491a-ac3c-c28458a74854,3941018,Georgia,38229,Kvara,Left Center Forward,86.08991,42.87779,1,-0.00073,mid block,centre,propagated
+71d1f4d2-95ee-4077-ad63-8b031d0a6de2,3941018,Georgia,135844,Sandro Altunashvili,Center Defensive Midfield,97.1983,48.51864,1,4e-05,edge of box,centre,propagated
+fc261764-8b0c-4fd3-848f-a845e4e00687,3941018,Georgia,33234,Georges Mikautadze,Right Center Forward,86.79185,38.66474,2,-0.00107,mid block,centre,propagated
+3f2f27a4-a2cf-463a-83ca-04a4d33ed63b,3941018,Georgia,135844,Sandro Altunashvili,Center Defensive Midfield,101.76529,44.40228,1,0.01569,edge of box,centre,direct
+78702a76-965c-4490-99b9-cf5b600acc6b,3941018,Georgia,41202,Giorgi Kochorashvili,Left Center Midfield,87.5115,21.33611,1,0.00219,mid block,right (def view),propagated
+d78eb0f2-eb81-49f6-8bf8-63f1e59d9bea,3941018,Georgia,41202,Giorgi Kochorashvili,Left Center Midfield,92.80607,20.24447,1,0.00283,edge of box,right (def view),direct
+6f83c968-98de-49b2-95d0-11c336c0a2c7,3941018,Georgia,41202,Giorgi Kochorashvili,Left Center Midfield,89.89599,22.11486,1,0.0026,mid block,right (def view),propagated
+af61ae93-2e6c-48b8-a78b-46bb9846c7e5,3941018,Georgia,7839,Guram Kashia,Center Back,101.55958,36.06836,1,-0.00035,edge of box,centre,propagated
+ca64a767-8dbb-4d53-8737-0b1efc7ff080,3941018,Georgia,102372,Budu Zivzivadze,Right Center Forward,76.64924,63.79315,1,-0.00145,mid block,left (def view),direct
+ca64a767-8dbb-4d53-8737-0b1efc7ff080,3941018,Georgia,7839,Guram Kashia,Center Back,99.3765,41.05879,1,-5e-05,edge of box,centre,propagated
+7ac6414b-e9e8-4c5e-aed8-f9d8a161d2ec,3941019,Belgium,3089,Kevin De Bruyne,Center Attacking Midfield,71.31438,59.98195,1,5e-05,high,left (def view),propagated
+bae9367b-8276-48c1-b859-d73805b80c9a,3941019,Belgium,48347,Amadou Onana,Left Defensive Midfield,73.23722,50.38467,1,0.00125,high,centre,propagated
+59cc9dba-cdf3-4878-92b7-831682564e38,3941019,Belgium,16275,Loïs Openda,Left Center Forward,63.93241,32.80498,1,-0.00017,high,centre,propagated
+2db3df95-241e-4052-82cc-9b1bc6ff1cac,3941019,Belgium,16275,Loïs Openda,Left Center Forward,65.76099,32.11926,1,-0.00066,high,centre,propagated
+2db3df95-241e-4052-82cc-9b1bc6ff1cac,3941019,Belgium,48347,Amadou Onana,Left Defensive Midfield,79.83752,14.68139,1,0.0,mid block,right (def view),direct
+17807887-5b5b-458f-8afa-c4da0b2fbce9,3941019,Belgium,16275,Loïs Openda,Left Center Forward,70.94693,34.8937,1,0.00027,high,centre,direct
+601d8a4e-59ee-4ec0-a7aa-c73d74d6bf8d,3941019,Belgium,3089,Kevin De Bruyne,Center Attacking Midfield,77.2388,45.62231,1,0.00018,mid block,centre,propagated
+799204fe-6588-4897-ada9-5f2a82f58bd0,3941019,Belgium,3089,Kevin De Bruyne,Center Attacking Midfield,76.73661,48.07442,1,7e-05,mid block,centre,direct
+972c6a72-80ef-44c3-8094-509536355423,3941019,Belgium,6989,Timothy Castagne,Right Back,109.53096,34.09695,1,-0.00161,box,centre,direct
+14b06ba3-6761-4053-8a45-22e2ded155ae,3941019,Belgium,3077,Jan Vertonghen,Left Center Back,98.71692,45.39361,1,-0.0,edge of box,centre,propagated
+fb61f2bc-dad8-4754-9a24-4c453ac5c3e1,3941019,Belgium,16275,Loïs Openda,Left Center Forward,76.99229,51.45608,1,-0.0019,mid block,centre,propagated
+9065a93a-afd1-48c2-b4f4-332d1c3de88b,3941019,Belgium,16275,Loïs Openda,Left Center Forward,78.85024,50.05088,1,-0.00161,mid block,centre,propagated
+6706858b-e95a-4035-976b-012b40f14a3b,3941019,Belgium,3289,Romelu Lukaku,Center Forward,86.45344,27.95995,1,-0.00019,mid block,centre,propagated
+8c761af0-24ef-4715-88ee-a41910e73b9f,3941019,Belgium,3289,Romelu Lukaku,Center Forward,85.54139,25.15557,1,-0.00093,mid block,right (def view),propagated
+ba157bd1-8580-46cc-bf52-279e36cc5e46,3941019,Belgium,3289,Romelu Lukaku,Center Forward,86.60842,28.21244,1,-0.00327,mid block,centre,propagated
+5a418187-5296-4964-9660-32cf95bd9767,3941019,Belgium,3289,Romelu Lukaku,Center Forward,85.5098,33.54572,1,-0.00461,mid block,centre,propagated
+5a418187-5296-4964-9660-32cf95bd9767,3941019,Belgium,3077,Jan Vertonghen,Left Center Back,97.18283,40.7909,1,0.00131,edge of box,centre,propagated
+82f8941c-6a88-49de-9576-a5251c08d090,3941019,Belgium,3289,Romelu Lukaku,Center Forward,80.18357,34.67466,1,-0.00026,mid block,centre,propagated
+82f8941c-6a88-49de-9576-a5251c08d090,3941019,Belgium,3077,Jan Vertonghen,Left Center Back,93.64619,40.75163,1,-1e-05,edge of box,centre,propagated
+d964d361-71ad-4a10-ba1d-9c8b0d880246,3941019,Belgium,3289,Romelu Lukaku,Center Forward,81.49319,28.08645,1,-0.0001,mid block,centre,propagated
+d964d361-71ad-4a10-ba1d-9c8b0d880246,3941019,Belgium,3077,Jan Vertonghen,Left Center Back,92.7793,37.34367,1,5e-05,edge of box,centre,propagated
+c3ca6298-1513-4ab7-98cf-715ec5fde595,3941019,Belgium,3289,Romelu Lukaku,Center Forward,85.35729,28.41999,2,-0.00033,mid block,centre,propagated
+2cce8364-9508-4976-8521-625087a4b633,3941019,Belgium,8854,Wout Faes,Right Center Back,103.21324,41.64445,1,9e-05,box,centre,propagated
+8143e99a-f223-46b7-a8f1-56ccb872fba7,3941019,Belgium,3089,Kevin De Bruyne,Center Attacking Midfield,82.28392,45.87472,1,0.00025,mid block,centre,direct
+aedc97c6-5314-4f28-8624-8b6b10ced919,3941019,Belgium,8854,Wout Faes,Right Center Back,104.26714,34.4881,1,-0.00055,box,centre,propagated
+e3a3c757-cce1-4041-8a70-d9870dfcd4aa,3941019,France,6704,Theo Hernández,Left Back,103.48893,45.2219,1,0.00157,box,centre,direct
+c9b4acef-0dcb-4cbb-b3ad-9a2a01604a65,3941020,Slovenia,31089,Jan Mlakar,Left Midfield,90.18236,73.94984,1,-0.0001,edge of box,left (def view),direct
+8d3e7334-adb9-4518-a00e-1f14637a6eda,3941020,Portugal,12169,João Palhinha,Left Defensive Midfield,78.39967,63.2345,1,0.00153,mid block,left (def view),direct
+9d26d5d2-dd7f-450b-a399-66d865c11cdf,3941020,Slovenia,137487,Žan Karničnik,Right Back,99.83456,6.82458,1,0.00013,edge of box,right (def view),direct
+1bb51d12-fad8-42b1-bcef-23a6e2204405,3941020,Slovenia,31968,Adam Gnezda Čerin,Right Defensive Midfield,71.63483,22.21405,1,2e-05,high,right (def view),propagated
+8e186999-ef5d-4df8-8497-de414ae941fe,3941020,Slovenia,31089,Jan Mlakar,Left Midfield,87.73012,60.09372,1,0.00054,mid block,left (def view),propagated
+b01351cd-112a-4f81-ba33-487034712c69,3941020,Slovenia,31968,Adam Gnezda Čerin,Right Defensive Midfield,70.49986,12.69521,1,0.00079,high,right (def view),propagated
+87205a2e-9a1c-418d-9a37-3b90c701d599,3941020,Slovenia,31968,Adam Gnezda Čerin,Right Defensive Midfield,103.62477,20.34408,2,0.00105,box,right (def view),propagated
+9153dfff-775a-4098-add7-cbb2b62678bd,3941020,Slovenia,15896,Timi Elšnik,Left Defensive Midfield,99.32959,17.61289,1,0.00324,edge of box,right (def view),direct
+7f7a8cb3-ed57-4cdf-8421-3eed0c8fe508,3941020,Slovenia,11416,Jon Gorenc-Stankovic,Left Defensive Midfield,87.55511,23.68605,1,0.0018,mid block,right (def view),propagated
+79db89cb-4fb2-49b0-9877-6005004c17e6,3941020,Slovenia,15896,Timi Elšnik,Left Defensive Midfield,88.65217,33.41537,1,-4e-05,mid block,centre,propagated
+02dc83b9-d95b-4054-b245-8172c2c97e3d,3941021,Romania,10916,Nicolae Stanciu,Left Center Midfield,80.67891,30.53533,2,-3e-05,mid block,centre,propagated
+02dc83b9-d95b-4054-b245-8172c2c97e3d,3941021,Romania,31193,Denis Dragus,Center Forward,81.51253,33.7378,1,9e-05,mid block,centre,propagated
+17f40942-d7bf-435d-b736-716aaf60ea81,3941021,Romania,31908,Andrei Burcă Andonie,Left Center Back,91.1929,54.09897,1,9e-05,edge of box,left (def view),direct
+3eb9aca7-6d52-4232-87c2-b92ac54cbcb2,3941021,Romania,31193,Denis Dragus,Center Forward,104.18213,42.2165,1,-0.00012,box,centre,propagated
+b52639c7-4dba-4dd8-9529-a72f9d265ef7,3941021,Romania,16344,Răzvan Marin,Right Center Midfield,97.51635,27.23654,1,0.00042,edge of box,centre,direct
+86dd61d2-9c5c-4493-a1e7-912d95731998,3941021,Romania,28565,Ianis Hagi,Left Midfield,79.26808,60.94284,1,0.00036,mid block,left (def view),direct
+71f6a2b6-fa0a-41ba-8ea8-ff9ef15f03b6,3941021,Romania,31908,Andrei Burcă Andonie,Left Center Back,78.61439,55.21846,1,0.00095,mid block,left (def view),direct
+039d6683-32c9-4c9d-9fb4-5ef305493a89,3941022,Turkey,10826,Mert Müldür,Right Back,69.82961,5.32927,1,-1e-05,high,right (def view),propagated
+36860937-443d-4226-a72d-a475c3af5038,3941022,Turkey,30438,Ferdi Kadioglu,Left Back,102.74772,51.95428,1,0.00036,box,centre,propagated
+af0980b4-7f82-4af2-b22e-7ac6bd699bf4,3941022,Turkey,78241,İsmail Yüksek,Left Defensive Midfield,62.89758,14.88509,1,-0.00025,high,right (def view),propagated
+a7622fbf-1a08-4021-a9e1-287f72537a3c,3941022,Austria,8518,Marcel Sabitzer,Left Wing,78.09715,65.78435,1,0.00168,mid block,left (def view),propagated
+485f9239-c1dd-4bad-b827-32c8d2dd97f6,3941022,Turkey,151813,Kenan Yildiz,Left Wing,83.54871,51.96538,1,0.00031,mid block,centre,direct
+f8af0dd1-d5ca-4f47-a227-ef3f5791e9ca,3941022,Turkey,49689,Kerem Aktürkoglu,Left Wing,94.05178,53.89637,1,-0.00395,edge of box,left (def view),propagated
+260a3c27-cc4b-4695-ad81-7f3bc24c2a24,3941022,Turkey,22212,Orkun Kökçü,Center Attacking Midfield,101.57678,56.61995,2,-0.00082,edge of box,left (def view),direct
+62a94255-8029-4f8c-b93b-8014e5fafdb0,3941022,Turkey,12555,Okay Yokuşlu,Center Defensive Midfield,87.69298,18.96887,1,0.00111,mid block,right (def view),direct
+ae8b87f0-4775-47f9-858e-de6d1bfdf8a3,3941022,Turkey,9085,Salih Özcan,Right Defensive Midfield,81.62715,40.92715,2,-0.00339,mid block,centre,propagated
+f00dcc04-5667-4bab-a847-7c765921def0,3941022,Turkey,9085,Salih Özcan,Right Defensive Midfield,83.9125,46.65843,1,0.00056,mid block,centre,propagated
+510af3f7-89c1-4cb6-8d09-34678cd6c345,3941022,Turkey,30438,Ferdi Kadioglu,Left Back,87.07149,48.11905,1,0.00041,mid block,centre,propagated
+58282130-640e-4afe-aa9c-23e08f6309e4,3942226,Germany,3053,Leroy Sané,Right Wing,79.5162,45.49852,1,0.00099,mid block,centre,direct
+78af631c-9fc5-4356-8979-c92877b0399b,3942226,Spain,16532,Daniel Olmo,Center Attacking Midfield,81.45332,26.47533,1,-0.00589,mid block,right (def view),propagated
+898abcd9-0d36-4ba8-8c5e-1e8bc54becd2,3942226,Spain,3477,Álvaro Morata,Center Forward,52.70799,32.30627,1,-0.00013,high,centre,propagated
+8386eddd-9d94-4bfc-a936-51a5593fd388,3942226,Germany,12034,David Raum,Left Back,97.3362,52.09054,1,-7e-05,edge of box,centre,propagated
+450d98b5-adc8-4cf3-8d5a-d1c97251af56,3942226,Spain,6765,Rodri,Right Defensive Midfield,99.2611,50.29957,3,0.0016,edge of box,centre,propagated
+8137e8dc-d748-4945-9fd2-5a6171c6ea31,3942226,Spain,6765,Rodri,Right Defensive Midfield,98.12205,56.71155,1,0.00315,edge of box,left (def view),propagated
+68596f15-d232-4d28-abc1-d92c3123bbf5,3942226,Germany,9195,Robert Andrich,Right Defensive Midfield,68.69424,35.71968,1,8e-05,high,centre,propagated
+7da58b09-2318-41d0-9eff-2abd99b43c02,3942226,Spain,6765,Rodri,Right Defensive Midfield,101.58889,36.90086,1,0.00065,edge of box,centre,direct
+3162becf-3e61-4f21-85ea-f5249bca875a,3942226,Spain,3477,Álvaro Morata,Center Forward,68.78951,67.38571,2,-0.00034,high,left (def view),direct
+6a43d094-b023-49f1-8f68-4f8e472e6d06,3942226,Spain,6655,Fabián Ruiz,Left Defensive Midfield,87.47852,54.71042,1,-0.00079,mid block,left (def view),propagated
+95a4b471-63ad-46c3-abf5-7b0d4a4e8090,3942226,Spain,68574,Nico Williams,Left Wing,82.09083,70.69127,1,-0.00114,mid block,left (def view),propagated
+66de9e5f-7ce2-4ea5-939a-4e362b2f94e6,3942226,Spain,3477,Álvaro Morata,Center Forward,86.18312,60.09544,1,-0.00436,mid block,left (def view),propagated
+fa90b263-9245-473b-89eb-4b8d855dc819,3942226,Germany,40724,Florian Wirtz,Left Wing,63.93794,50.91361,1,8e-05,high,centre,propagated
+72564141-1ca4-44a4-9062-ee7331dfe65a,3942226,Germany,5562,Thomas Müller,Center Attacking Midfield,71.42159,12.75975,1,-0.00048,high,right (def view),propagated
+55cf4c2a-d29c-41a5-ba09-cbe6be591b4f,3942226,Germany,5579,Joshua Kimmich,Right Back,88.39112,16.23244,1,0.00084,mid block,right (def view),propagated
+af7c053f-17f0-4f16-88ab-c26fe4800f37,3942226,Spain,6765,Rodri,Right Defensive Midfield,84.29473,13.69615,1,6e-05,mid block,right (def view),direct
+eb0916d1-90f5-483c-998f-691a6263c9c0,3942226,Spain,3265,Joselu,Center Forward,52.73496,18.21672,1,-0.00031,high,right (def view),propagated
+ebff1904-f301-4f72-a521-950a9713cbce,3942226,Germany,5579,Joshua Kimmich,Right Back,98.38154,21.51983,3,9e-05,edge of box,right (def view),propagated
+0abf1e9d-7fe6-4c00-91a7-c6c3fa4edd4e,3942227,Switzerland,3500,Granit Xhaka,Left Defensive Midfield,87.31845,43.29579,1,0.00204,mid block,centre,propagated
+07d85515-2b34-4ae0-a870-f60c2ffdd274,3942227,Switzerland,3500,Granit Xhaka,Left Defensive Midfield,87.62826,47.35425,1,0.00077,mid block,centre,direct
+aa868621-a2c7-4d16-83a6-f8330497805c,3942227,Switzerland,50436,Fabian Rieder,Right Attacking Midfield,78.16769,3.38346,1,0.00088,mid block,right (def view),direct
+4b51a042-8ae0-4101-9b56-79834a9a6794,3942227,Switzerland,50436,Fabian Rieder,Right Attacking Midfield,101.1972,40.5622,1,0.0005,edge of box,centre,propagated
+bfd4b2f0-b86e-40f9-ad80-5deb3c930378,3942227,Switzerland,6983,Remo Freuler,Right Defensive Midfield,100.37101,43.43234,1,-0.00014,edge of box,centre,direct
+bfd4b2f0-b86e-40f9-ad80-5deb3c930378,3942227,Switzerland,3500,Granit Xhaka,Left Defensive Midfield,101.4038,54.20706,2,0.00015,edge of box,left (def view),direct
+73e5dedd-04b5-4ab8-9b63-c5eac8765078,3942227,Switzerland,6983,Remo Freuler,Right Defensive Midfield,101.59174,43.12739,2,0.00213,edge of box,centre,propagated
+0e7f60bb-dc9c-4aa8-b9eb-8a702e7ab99a,3942227,England,3308,Kieran Trippier,Left Back,89.18798,69.17178,1,0.00244,mid block,left (def view),direct
+fd61082b-da6b-4390-9bab-6a108663ab27,3942227,Switzerland,16016,Michel Aebischer,Left Wing Back,81.62862,64.01674,1,0.00124,mid block,left (def view),direct
+4eec91f2-be0e-493c-89da-9704c47b4539,3942227,Switzerland,30401,Ruben Vargas,Left Attacking Midfield,93.11121,55.10458,1,-0.00373,edge of box,left (def view),direct
+4eec91f2-be0e-493c-89da-9704c47b4539,3942227,Switzerland,5544,Ricardo Rodríguez,Left Center Back,102.93591,55.92915,1,-0.00028,box,left (def view),propagated
+276e2ff2-a931-45c5-98b8-162e8d3f8b22,3942227,England,22084,Bukayo Saka,Right Wing,87.92568,6.74381,1,0.0007,mid block,right (def view),propagated
+ace407b1-bb97-41f7-a7c4-1489fe16935d,3942227,Switzerland,6983,Remo Freuler,Right Defensive Midfield,80.33077,51.89537,1,-0.00047,mid block,centre,propagated
+2735a6d7-c7e0-4d13-b549-d92e97b6bcfb,3942227,Switzerland,5549,Manuel Akanji,Center Back,109.91863,49.73509,2,0.00307,box,centre,propagated
+cb1ac56d-1a3c-4a92-8424-bdade56846a1,3942227,England,4354,Phil Foden,Left Wing,75.62695,23.99243,1,0.0005,mid block,right (def view),propagated
+e28433eb-00a4-4f1d-ad58-13a3b5eec6ca,3942227,England,30714,Jude Bellingham,Center Attacking Midfield,88.49973,67.73097,1,0.01002,mid block,left (def view),propagated
+3a211ebd-f7c2-4aba-8cfa-dcfcd6fb913c,3942227,Switzerland,7796,Silvan Widmer,Right Wing Back,79.26548,15.70673,1,0.00049,mid block,right (def view),propagated
+ff782c32-9de1-4e2a-b5d0-5665a262865e,3942227,Switzerland,5537,Fabian Schär,Right Center Back,94.2433,40.89487,1,0.00044,edge of box,centre,propagated
+4c8fc2e9-e149-40fc-8f6c-f079b0b1481b,3942227,Switzerland,5544,Ricardo Rodríguez,Left Center Back,88.87133,62.78258,1,5e-05,mid block,left (def view),propagated
+04d88fff-a556-4685-9296-57fde76e3b11,3942349,Portugal,12169,João Palhinha,Left Defensive Midfield,84.08608,29.11347,3,0.00017,mid block,centre,propagated
+ea1797cf-305a-4861-a04b-5a718b05f6d4,3942349,France,24778,Eduardo Camavinga,Left Center Midfield,92.83258,57.75178,1,0.0003,edge of box,left (def view),propagated
+27220fe4-2698-434f-8e64-6792a2bc9458,3942349,France,5487,Antoine Griezmann,Center Attacking Midfield,89.7462,62.09691,1,4e-05,mid block,left (def view),propagated
+6b3f03e3-4262-4637-aee1-039cf5742369,3942349,France,5487,Antoine Griezmann,Center Attacking Midfield,84.99857,70.38539,1,0.00138,mid block,left (def view),propagated
+0892eb0b-b60f-46a5-9f8f-ffbfbc71085e,3942349,Portugal,41092,Nuno Mendes,Left Back,71.68635,65.21176,2,0.00047,high,left (def view),propagated
+7b49ab36-f582-4c7c-8164-1a9b0df144ac,3942349,Portugal,7005,João Cancelo,Right Back,85.52915,25.44989,1,0.00576,mid block,right (def view),propagated
+8cc3b894-0316-4021-b148-5723adf3f84f,3942349,Portugal,7005,João Cancelo,Right Back,89.22958,24.66025,2,0.00021,mid block,right (def view),direct
+df418610-aea4-4727-9bbd-9a9751cad50a,3942349,Portugal,5206,Rúben Dias,Right Center Back,92.77159,26.38468,1,0.00019,edge of box,right (def view),direct
+0dfe374a-5ed3-43f2-a0e5-e567a79a0785,3942349,Portugal,5206,Rúben Dias,Right Center Back,93.22165,25.75517,1,0.00064,edge of box,right (def view),direct
+d2934150-fad2-4026-aa1c-8decafb586ba,3942349,Portugal,5206,Rúben Dias,Right Center Back,92.6984,29.25659,1,0.00027,edge of box,centre,propagated
+4787e124-a802-4a54-a2fd-ec93aa3aff63,3942349,France,5487,Antoine Griezmann,Center Attacking Midfield,64.56292,51.97252,1,0.00012,high,centre,propagated
+d8eb38c4-ff13-4dd9-91a8-b99b1c6b89d5,3942349,France,24778,Eduardo Camavinga,Left Center Midfield,72.42206,16.354,2,0.00118,high,right (def view),propagated
+0d33caae-d010-42e0-a7a9-63b200953159,3942349,Portugal,12169,João Palhinha,Left Defensive Midfield,91.08512,28.041,1,-0.00151,edge of box,centre,propagated
+0f69ecec-0e21-4fea-b1d0-0bc40eec9135,3942349,Portugal,12169,João Palhinha,Left Defensive Midfield,92.76097,25.39922,1,-0.00053,edge of box,right (def view),propagated
+66a04228-a7d8-45e8-8a74-191b233a28bf,3942349,France,24778,Eduardo Camavinga,Left Center Midfield,71.18178,18.53424,1,-0.00016,high,right (def view),propagated
+7a935d0a-66f3-4af4-86d1-7442f681cdf6,3942349,France,10481,Aurélien Tchouaméni,Center Defensive Midfield,104.89568,49.76022,3,0.00777,box,centre,direct
+c12296a7-bcd2-4b98-9a12-069a8e3e2d2b,3942349,France,10481,Aurélien Tchouaméni,Center Defensive Midfield,102.70983,48.01868,1,0.00032,box,centre,direct
+e1cc323d-b51c-4f1f-a439-fad78ec2338d,3942349,France,3009,Kylian Mbappé,Center Forward,86.21955,68.33959,1,0.00042,mid block,left (def view),propagated
+2ca166bf-0927-417f-9de5-86cb7a4a105c,3942349,Portugal,9927,Rúben Neves,Left Defensive Midfield,84.26043,54.68785,2,0.00342,mid block,left (def view),propagated
+451c7ab8-b181-46fa-a192-ad44bc58f828,3942349,Portugal,40874,Matheus Nunes,Left Defensive Midfield,77.66336,61.01591,1,0.00038,mid block,left (def view),propagated
+5b772f4a-7704-442f-9989-b6b71c059564,3942349,Portugal,40874,Matheus Nunes,Left Defensive Midfield,72.00905,64.3203,1,7e-05,high,left (def view),direct
+103c92ab-0cbc-4c22-939d-5dc5cf5a5a88,3942349,Portugal,40874,Matheus Nunes,Left Defensive Midfield,74.81911,59.1062,1,7e-05,high,left (def view),propagated
+211866d4-3863-465a-b8fb-2170eea12e78,3942382,Turkey,9085,Salih Özcan,Right Defensive Midfield,83.50242,33.3406,1,0.00087,mid block,centre,propagated
+5d09f7da-585c-4a64-b9d4-140a821b3c04,3942382,Turkey,9085,Salih Özcan,Right Defensive Midfield,77.35375,51.59168,1,-0.00012,mid block,centre,propagated
+5d09f7da-585c-4a64-b9d4-140a821b3c04,3942382,Turkey,9085,Salih Özcan,Right Defensive Midfield,82.41974,32.50985,1,0.00154,mid block,centre,propagated
+01eaeeb7-aaa7-401a-8dc6-cc19c1031999,3942382,Turkey,9085,Salih Özcan,Right Defensive Midfield,74.15689,46.82955,1,-0.0001,high,centre,propagated
+01eaeeb7-aaa7-401a-8dc6-cc19c1031999,3942382,Turkey,9085,Salih Özcan,Right Defensive Midfield,78.63446,28.36158,1,0.00087,mid block,centre,propagated
+7ce3eba2-d0ba-4310-afdc-f40b1224c964,3942382,Turkey,133305,Samet Akaydin,Right Center Back,80.84347,26.2638,1,0.00034,mid block,right (def view),propagated
+7372487b-2129-496e-b3a6-ba74dcb75c8b,3942382,Turkey,9085,Salih Özcan,Right Defensive Midfield,69.58312,34.63904,2,0.00049,high,centre,propagated
+4cc79a8b-9a7a-4cb3-a1fb-46d006771dba,3942382,Turkey,151813,Kenan Yildiz,Left Wing,92.51566,72.1789,2,0.00093,edge of box,left (def view),direct
+a70607e4-3522-4cf4-ae6a-0713fa221aae,3942382,Netherlands,15503,Jerdy Schouten,Right Defensive Midfield,63.88581,64.93118,1,-0.0,high,left (def view),propagated
+effa52f1-842f-42c0-862a-7027ef355814,3942382,Turkey,7039,Hakan Çalhanoğlu,Left Defensive Midfield,74.82789,52.87555,1,-0.00162,high,centre,propagated
+effa52f1-842f-42c0-862a-7027ef355814,3942382,Turkey,116587,Arda Güler,Center Forward,83.1702,29.74063,1,2e-05,mid block,centre,propagated
+9583b3eb-ce83-4353-94d6-361d95f44fd3,3942382,Turkey,7039,Hakan Çalhanoğlu,Left Defensive Midfield,73.36374,46.69382,1,-0.00103,high,centre,propagated
+c9935257-bb66-4dfe-889d-1d9e99a24402,3942382,Turkey,7039,Hakan Çalhanoğlu,Left Defensive Midfield,88.81511,47.57527,1,0.00102,mid block,centre,propagated
+35d2ff83-ab3a-4225-9f8f-ec3ae65151e8,3942382,Turkey,9085,Salih Özcan,Right Defensive Midfield,82.82811,39.69132,1,0.00087,mid block,centre,direct
+8fd371fe-e9dc-442c-81d6-c0d77f09fd71,3942382,Turkey,30438,Ferdi Kadioglu,Left Back,103.87259,38.72952,1,-0.00148,box,centre,propagated
+31569e97-9b8b-443c-8363-674ce0cc3c99,3942752,France,10481,Aurélien Tchouaméni,Center Defensive Midfield,95.69464,19.23395,2,0.00433,edge of box,right (def view),direct
+b2678f13-b1ba-4dca-878b-999c48c33030,3942752,Spain,68574,Nico Williams,Left Wing,81.72383,69.28774,1,0.00055,mid block,left (def view),propagated
+de01c49c-4f6e-4625-b64a-63040b5cdeac,3942752,France,4445,Jules Koundé,Right Back,101.83747,49.60269,1,-0.00492,edge of box,centre,direct
+72bc24ef-d5dd-419e-8b19-abe5ff576915,3942752,France,22097,Randal Kolo,Center Forward,72.63793,25.62407,1,0.00151,high,right (def view),direct
+a0c4d2c0-5bb6-4f5b-8f6a-4fc7dd37bfbe,3942752,France,10481,Aurélien Tchouaméni,Center Defensive Midfield,83.01439,13.05782,1,0.00027,mid block,right (def view),direct
+773e69de-813a-4cf1-b681-576307944ef9,3942752,France,3961,N'Golo Kanté,Right Center Midfield,99.47612,44.42731,1,0.00047,edge of box,centre,direct
+4e340082-5b32-45fc-a124-e8b76341ce7a,3942752,France,24778,Eduardo Camavinga,Left Center Midfield,68.64689,45.46486,2,1e-05,high,centre,propagated
+cff0096d-63e9-460a-8378-3e51dfc42154,3942752,France,24778,Eduardo Camavinga,Left Center Midfield,73.76313,41.12305,1,9e-05,high,centre,propagated
+3d8d6d76-98ab-42c7-a497-87beab5e05e7,3942752,France,24778,Eduardo Camavinga,Left Center Midfield,72.59737,37.49113,1,-0.0,high,centre,propagated
+29563514-8b86-4393-b4bc-1f941b485196,3942819,England,30714,Jude Bellingham,Center Attacking Midfield,92.42188,73.28931,1,0.00058,edge of box,left (def view),propagated
+381658d8-381e-48e1-bc28-252e220573a7,3943043,England,3244,John Stones,Right Center Back,109.07217,34.65355,1,0.00349,box,centre,direct
+409bfc37-8833-47b1-8b60-461f3686a91b,3943043,England,99174,Kobbie Mainoo,Right Defensive Midfield,83.09414,38.64784,1,0.00011,mid block,centre,propagated
+ffa4e87c-bf4a-42c2-9792-49de684e2450,3943043,Spain,6765,Rodri,Right Defensive Midfield,72.37601,48.89247,1,-7e-05,high,centre,propagated
+a8241a9b-b73e-4f83-8506-8895c29647c1,3943043,Spain,4353,Aymeric Laporte,Left Center Back,103.52806,45.44333,2,0.00016,box,centre,direct
+f89d77d2-0814-44f3-9984-d805ae5d7b60,3943043,England,4354,Phil Foden,Left Wing,53.44175,32.67271,1,-0.00013,high,centre,propagated
+132f04c5-e54e-4b96-a353-44d738e0453f,3943043,England,3943,Declan Rice,Left Defensive Midfield,79.18967,47.00945,1,0.00082,mid block,centre,propagated
+43ea63d8-9bfb-4097-9c3e-9d89775dfa52,3943043,England,22084,Bukayo Saka,Right Wing,94.24,30.77848,1,-0.00269,edge of box,centre,propagated
+592d40ff-408f-4b89-b9de-877a56c28731,3943043,Spain,24921,Martín Zubimendi,Right Defensive Midfield,71.49899,22.56146,1,0.00032,high,right (def view),direct
